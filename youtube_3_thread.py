@@ -102,9 +102,7 @@ class YouTubeScraper:
                 category_id VARCHAR(10),
                 license VARCHAR(50),
                 video_made_for_kids BOOLEAN,
-                PRIMARY KEY (channel_id, video_id),
-                INDEX idx_channel_handle (channel_handle),
-                INDEX idx_scraped_at (scraped_at)
+                PRIMARY KEY (channel_id, video_id)
             );
             """)
             
