@@ -31,7 +31,7 @@ API_KEYS = [key for key in API_KEYS if key]  # Remove None/empty keys
 
 INPUT_FILE = "Channel_name_23012026.csv"
 CHECKPOINT_FILE = "youtube_checkpoint_db.json"
-BATCH_SIZE = 3  # Save to DB after every 3 channels
+BATCH_SIZE = 10  # Save to DB after every 3 channels
 RATE_LIMIT_RETRY_DELAY = 60  # 1 minute delay on rate limit
 
 # Setup logging
