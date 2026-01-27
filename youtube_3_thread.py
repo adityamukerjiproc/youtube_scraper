@@ -16,11 +16,11 @@ load_dotenv()
 
 # Configuration from .env - Updated to match your new format
 DB_CONFIG = {
-    'dbname': os.getenv('DB_NAME', 'Auxo-Database'),
-    'user': os.getenv('DB_USER', 'auxoread'),
-    'password': os.getenv('DB_PASSWORD', 'auxo@123'),
-    'host': os.getenv('DB_HOST', 'auxo-development.cm6vbnnsye5g.us-east-1.rds.amazonaws.com'),
-    'port': os.getenv('DB_PORT', '5432')
+    'dbname': os.getenv('DB_NAME'),
+    'user': os.getenv('DB_USER'),
+    'password': os.getenv('DB_PASSWORD'),
+    'host': os.getenv('DB_HOST'),
+    'port': os.getenv('DB_PORT')
 }
 
 # Load ALL API keys from .env (YOUTUBE_API_KEY_1 through YOUTUBE_API_KEY_10)
