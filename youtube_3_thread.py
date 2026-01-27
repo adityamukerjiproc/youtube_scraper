@@ -61,16 +61,20 @@ class YouTubeScraper:
                 conn.close()
     
     def setup_database(self):
-        """Create recycle_bin.youtube_scraped_data table."""
         with self.get_db_connection() as conn:
             cur = conn.cursor()
             
-            # Create schema if not exists
             cur.execute("""
-            CREATE SCHEMA IF NOT EXISTS recycle_bin;
+            SELECT schema_name 
+            FROM information_schema.schemata 
+            WHERE schema_name = 'recycle_bin'
             """)
+            schema_exists = cur.fetchone()
             
-            # Create main table with comprehensive structure
+            if not schema_exists:
+                raise Exception("Schema 'recycle_bin' missing. Create it first: CREATE SCHEMA recycle_bin;")
+            
+            # ✅ Create table IF NOT EXISTS (safe)
             cur.execute("""
             CREATE TABLE IF NOT EXISTS recycle_bin.youtube_scraped_data (
                 channel_id VARCHAR(255),
@@ -102,13 +106,16 @@ class YouTubeScraper:
                 category_id VARCHAR(10),
                 license VARCHAR(50),
                 video_made_for_kids BOOLEAN,
-                PRIMARY KEY (channel_id, video_id)
+                PRIMARY KEY (channel_id, video_id),
+                INDEX idx_channel_handle (channel_handle),
+                INDEX idx_scraped_at (scraped_at)
             );
             """)
             
             conn.commit()
             cur.close()
-            logger.info("recycle_bin.youtube_scraped_data table ready")
+            logger.info("✅ recycle_bin.youtube_scraped_data ready (schema check passed)")
+
     
     def setup_youtube_api(self, api_key):
         """Setup YouTube API client."""
