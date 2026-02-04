@@ -1,0 +1,11 @@
+2026-02-04 13:51:11,096 - INFO - 🚀 YouTube scraper started
+2026-02-04 13:51:11,098 - INFO - 📁 Log file: logs\scraper_20260204_135111.log
+2026-02-04 13:51:11,099 - INFO - 🔑 Loaded 10 API keys
+2026-02-04 13:51:15,043 - INFO - ✅ DB check complete, table ready
+2026-02-04 13:51:15,044 - INFO - ✅ Initialized. Resume from row 0
+2026-02-04 13:51:15,070 - INFO - 🚀 Starting from row 0/1690
+2026-02-04 13:51:15,074 - INFO - [1/1690] @thedoctors
+2026-02-04 13:51:16,585 - INFO - 🔑 Using API key 1
+2026-02-04 13:51:21,236 - INFO - Channel UCI2Pptwa90afsbV4z8wlU3A already processed
+2026-02-04 13:51:22,740 - INFO - [2/1690] @uctv
+2026-02-04 13:51:24,149 - INFO - 🔑 Using API key 2
