@@ -1,0 +1,677 @@
+2026-02-04 08:32:40,983 - INFO - 🚀 YouTube scraper started
+2026-02-04 08:32:40,983 - INFO - 📁 Log file: logs/scraper_20260204_083240.log
+2026-02-04 08:32:40,983 - INFO - 🔑 Loaded 9 API keys
+2026-02-04 08:32:41,009 - INFO - ✅ DB check complete, table ready
+2026-02-04 08:32:41,009 - INFO - ✅ Initialized. Resume from row 0
+2026-02-04 08:32:41,022 - INFO - 🚀 Starting from row 0/165
+2026-02-04 08:32:41,022 - INFO - [1/165] UCh6KFtW4a4Ozr81GI1cxaBQ
+2026-02-04 08:32:41,156 - INFO - 🔑 Using API key 1
+2026-02-04 08:36:34,752 - ERROR - Error saving batch: A string literal cannot contain NUL (0x00) characters.
+2026-02-04 08:36:34,758 - INFO - ✅ UCh6KFtW4a4Ozr81GI1cxaBQ (10751 videos)
+2026-02-04 08:36:36,281 - INFO - [2/165] UCtnWlJ_4k2E90luVGfeArdg
+2026-02-04 08:36:36,417 - INFO - 🔑 Using API key 2
+2026-02-04 08:38:37,267 - INFO - 💾 Saved 5675 records
+2026-02-04 08:38:37,270 - INFO - ✅ UCtnWlJ_4k2E90luVGfeArdg (5675 videos)
+2026-02-04 08:38:38,781 - INFO - [3/165] UC07-dOwgza1IguKA86jqxNA
+2026-02-04 08:38:38,912 - INFO - 🔑 Using API key 3
+2026-02-04 08:40:07,597 - INFO - 💾 Saved 4194 records
+2026-02-04 08:40:07,600 - INFO - ✅ UC07-dOwgza1IguKA86jqxNA (4194 videos)
+2026-02-04 08:40:09,108 - INFO - [4/165] UCQ7jir4mIfQx3_DJsmVbwqA
+2026-02-04 08:40:09,237 - INFO - 🔑 Using API key 4
+2026-02-04 08:41:38,872 - INFO - 💾 Saved 4062 records
+2026-02-04 08:41:38,875 - INFO - ✅ UCQ7jir4mIfQx3_DJsmVbwqA (4062 videos)
+2026-02-04 08:41:40,382 - INFO - [5/165] UCkkztuiHDPQ7YpPSeG71r8w
+2026-02-04 08:41:40,527 - INFO - 🔑 Using API key 5
+2026-02-04 08:42:56,484 - INFO - 💾 Saved 3403 records
+2026-02-04 08:42:56,489 - INFO - ✅ UCkkztuiHDPQ7YpPSeG71r8w (3403 videos)
+2026-02-04 08:42:57,998 - INFO - [6/165] UCL-o0XJw1c_zBBLg4yhRjaw
+2026-02-04 08:42:58,155 - INFO - 🔑 Using API key 6
+2026-02-04 08:44:06,822 - INFO - 💾 Saved 3104 records
+2026-02-04 08:44:06,824 - INFO - ✅ UCL-o0XJw1c_zBBLg4yhRjaw (3104 videos)
+2026-02-04 08:44:08,329 - INFO - [7/165] UCStKuMUcq74rqfD7I9joEkQ
+2026-02-04 08:44:08,460 - INFO - 🔑 Using API key 7
+2026-02-04 08:44:08,489 - INFO - Channel UCStKuMUcq74rqfD7I9joEkQ already processed
+2026-02-04 08:44:09,990 - INFO - [8/165] UCJA54SrrVv7qRrEQSPVJ8Ug
+2026-02-04 08:44:10,144 - INFO - 🔑 Using API key 8
+2026-02-04 08:44:53,490 - INFO - 💾 Saved 1910 records
+2026-02-04 08:44:53,493 - INFO - ✅ UCJA54SrrVv7qRrEQSPVJ8Ug (1910 videos)
+2026-02-04 08:44:54,998 - INFO - [9/165] UCLcnUGG4GBQYOdo05vYdu2g
+2026-02-04 08:44:55,142 - INFO - 🔑 Using API key 9
+2026-02-04 08:45:32,520 - INFO - 💾 Saved 1666 records
+2026-02-04 08:45:32,522 - INFO - ✅ UCLcnUGG4GBQYOdo05vYdu2g (1666 videos)
+2026-02-04 08:45:34,026 - INFO - [10/165] UCIX88gLbvBUL5ifxQ2FeUlA
+2026-02-04 08:45:34,162 - INFO - 🔑 Using API key 1
+2026-02-04 08:46:08,959 - INFO - 💾 Saved 1552 records
+2026-02-04 08:46:08,961 - INFO - ✅ UCIX88gLbvBUL5ifxQ2FeUlA (1552 videos)
+2026-02-04 08:46:08,965 - INFO - 📝 Batch checkpoint: 10 channels
+2026-02-04 08:46:10,465 - INFO - [11/165] UCqBERDzM6ZcovT1s01kIrVg
+2026-02-04 08:46:10,601 - INFO - 🔑 Using API key 2
+2026-02-04 08:46:44,785 - INFO - 💾 Saved 1508 records
+2026-02-04 08:46:44,787 - INFO - ✅ UCqBERDzM6ZcovT1s01kIrVg (1508 videos)
+2026-02-04 08:46:46,291 - INFO - [12/165] UCFxoM0SVQUZvrkCN83cTj2w
+2026-02-04 08:46:46,430 - INFO - 🔑 Using API key 3
+2026-02-04 08:47:20,739 - INFO - 💾 Saved 1469 records
+2026-02-04 08:47:20,740 - INFO - ✅ UCFxoM0SVQUZvrkCN83cTj2w (1469 videos)
+2026-02-04 08:47:22,244 - INFO - [13/165] UCisrO9ZKV79cf9LatG_SjSg
+2026-02-04 08:47:22,407 - INFO - 🔑 Using API key 4
+2026-02-04 08:47:52,071 - INFO - 💾 Saved 1286 records
+2026-02-04 08:47:52,072 - INFO - ✅ UCisrO9ZKV79cf9LatG_SjSg (1286 videos)
+2026-02-04 08:47:53,575 - INFO - [14/165] UCfyqr-8cSj7bvvDQqtNoEMQ
+2026-02-04 08:47:53,733 - INFO - 🔑 Using API key 5
+2026-02-04 08:48:18,591 - INFO - 💾 Saved 1069 records
+2026-02-04 08:48:18,592 - INFO - ✅ UCfyqr-8cSj7bvvDQqtNoEMQ (1069 videos)
+2026-02-04 08:48:20,094 - INFO - [15/165] UCrp9jfdbDLVwV6R1sL7BqOQ
+2026-02-04 08:48:20,210 - INFO - 🔑 Using API key 6
+2026-02-04 08:48:43,435 - INFO - 💾 Saved 1031 records
+2026-02-04 08:48:43,437 - INFO - ✅ UCrp9jfdbDLVwV6R1sL7BqOQ (1031 videos)
+2026-02-04 08:48:44,939 - INFO - [16/165] UC6UuNrFE_l3eL9jLTOgngdQ
+2026-02-04 08:48:45,112 - INFO - 🔑 Using API key 7
+2026-02-04 08:49:05,780 - INFO - 💾 Saved 921 records
+2026-02-04 08:49:05,781 - INFO - ✅ UC6UuNrFE_l3eL9jLTOgngdQ (921 videos)
+2026-02-04 08:49:07,283 - INFO - [17/165] UClwMr26t47qS1L9S59P35Mg
+2026-02-04 08:49:07,441 - INFO - 🔑 Using API key 8
+2026-02-04 08:49:26,927 - INFO - 💾 Saved 856 records
+2026-02-04 08:49:26,928 - INFO - ✅ UClwMr26t47qS1L9S59P35Mg (856 videos)
+2026-02-04 08:49:28,430 - INFO - [18/165] UCuBt1xdv2n7GPawh7lcqDRA
+2026-02-04 08:49:28,566 - INFO - 🔑 Using API key 9
+2026-02-04 08:49:47,360 - INFO - 💾 Saved 828 records
+2026-02-04 08:49:47,362 - INFO - ✅ UCuBt1xdv2n7GPawh7lcqDRA (828 videos)
+2026-02-04 08:49:48,864 - INFO - [19/165] UCjB4hO3HZjOmNbTDKKCpP6A
+2026-02-04 08:49:49,013 - INFO - 🔑 Using API key 1
+2026-02-04 08:50:07,143 - INFO - 💾 Saved 808 records
+2026-02-04 08:50:07,144 - INFO - ✅ UCjB4hO3HZjOmNbTDKKCpP6A (808 videos)
+2026-02-04 08:50:08,646 - INFO - [20/165] UCWhP2WEsARYhA0TMxWNDneg
+2026-02-04 08:50:08,779 - INFO - 🔑 Using API key 2
+2026-02-04 08:50:26,141 - INFO - 💾 Saved 798 records
+2026-02-04 08:50:26,142 - INFO - ✅ UCWhP2WEsARYhA0TMxWNDneg (798 videos)
+2026-02-04 08:50:26,144 - INFO - 📝 Batch checkpoint: 10 channels
+2026-02-04 08:50:27,644 - INFO - [21/165] UCMP65ratMljD3W-6G_2KWfA
+2026-02-04 08:50:27,802 - INFO - 🔑 Using API key 3
+2026-02-04 08:50:46,105 - INFO - 💾 Saved 777 records
+2026-02-04 08:50:46,106 - INFO - ✅ UCMP65ratMljD3W-6G_2KWfA (777 videos)
+2026-02-04 08:50:47,608 - INFO - [22/165] UCBr__9NG8D-wSbz8wmkd_Pw
+2026-02-04 08:50:47,732 - INFO - 🔑 Using API key 4
+2026-02-04 08:51:05,100 - INFO - 💾 Saved 771 records
+2026-02-04 08:51:05,101 - INFO - ✅ UCBr__9NG8D-wSbz8wmkd_Pw (771 videos)
+2026-02-04 08:51:06,604 - INFO - [23/165] UCyh47rI07cKBX1frOJN23OA
+2026-02-04 08:51:06,777 - INFO - 🔑 Using API key 5
+2026-02-04 08:51:20,851 - INFO - 💾 Saved 643 records
+2026-02-04 08:51:20,852 - INFO - ✅ UCyh47rI07cKBX1frOJN23OA (643 videos)
+2026-02-04 08:51:22,354 - INFO - [24/165] UC7QsFltxPkJVDKyGVhqFNNg
+2026-02-04 08:51:22,513 - INFO - 🔑 Using API key 6
+2026-02-04 08:51:36,597 - INFO - 💾 Saved 630 records
+2026-02-04 08:51:36,598 - INFO - ✅ UC7QsFltxPkJVDKyGVhqFNNg (630 videos)
+2026-02-04 08:51:38,100 - INFO - [25/165] UCqTUmc5fuXMRyRwuu4OROZg
+2026-02-04 08:51:38,229 - INFO - 🔑 Using API key 7
+2026-02-04 08:51:52,471 - INFO - 💾 Saved 614 records
+2026-02-04 08:51:52,472 - INFO - ✅ UCqTUmc5fuXMRyRwuu4OROZg (614 videos)
+2026-02-04 08:51:53,974 - INFO - [26/165] UCVDwwQLCOZjXCZXsE0-8r_g
+2026-02-04 08:51:54,112 - INFO - 🔑 Using API key 8
+2026-02-04 08:52:06,977 - INFO - 💾 Saved 595 records
+2026-02-04 08:52:06,978 - INFO - ✅ UCVDwwQLCOZjXCZXsE0-8r_g (595 videos)
+2026-02-04 08:52:08,480 - INFO - [27/165] UCYmg0s83A2XV09gRRVnA0Tw
+2026-02-04 08:52:08,601 - INFO - 🔑 Using API key 9
+2026-02-04 08:52:22,985 - INFO - 💾 Saved 614 records
+2026-02-04 08:52:22,987 - INFO - ✅ UCYmg0s83A2XV09gRRVnA0Tw (614 videos)
+2026-02-04 08:52:24,489 - INFO - [28/165] UCU_wGi2n8Hmje3DFIpJd8EA
+2026-02-04 08:52:24,591 - INFO - 🔑 Using API key 1
+2026-02-04 08:52:38,516 - INFO - 💾 Saved 610 records
+2026-02-04 08:52:38,517 - INFO - ✅ UCU_wGi2n8Hmje3DFIpJd8EA (610 videos)
+2026-02-04 08:52:40,019 - INFO - [29/165] UCWR3R3lkUxb7agVNkAkopmw
+2026-02-04 08:52:40,154 - INFO - 🔑 Using API key 2
+2026-02-04 08:52:52,820 - INFO - 💾 Saved 589 records
+2026-02-04 08:52:52,821 - INFO - ✅ UCWR3R3lkUxb7agVNkAkopmw (589 videos)
+2026-02-04 08:52:54,322 - INFO - [30/165] UCNudgFGNnw3hRASK9l1Hpxg
+2026-02-04 08:52:54,451 - INFO - 🔑 Using API key 3
+2026-02-04 08:53:07,274 - INFO - 💾 Saved 580 records
+2026-02-04 08:53:07,275 - INFO - ✅ UCNudgFGNnw3hRASK9l1Hpxg (580 videos)
+2026-02-04 08:53:07,278 - INFO - 📝 Batch checkpoint: 10 channels
+2026-02-04 08:53:08,778 - INFO - [31/165] UC-RlNcHZEucIevdNBeR-KPw
+2026-02-04 08:53:08,922 - INFO - 🔑 Using API key 4
+2026-02-04 08:53:20,276 - INFO - 💾 Saved 526 records
+2026-02-04 08:53:20,276 - INFO - ✅ UC-RlNcHZEucIevdNBeR-KPw (526 videos)
+2026-02-04 08:53:21,778 - INFO - [32/165] UCvrbcVsCntwEqVAgdBAVBKw
+2026-02-04 08:53:21,927 - INFO - 🔑 Using API key 5
+2026-02-04 08:53:32,882 - INFO - 💾 Saved 500 records
+2026-02-04 08:53:32,883 - INFO - ✅ UCvrbcVsCntwEqVAgdBAVBKw (500 videos)
+2026-02-04 08:53:34,385 - INFO - [33/165] UCjA21yXfo45K9bsBh6cnEMA
+2026-02-04 08:53:34,515 - INFO - 🔑 Using API key 6
+2026-02-04 08:53:46,160 - INFO - 💾 Saved 501 records
+2026-02-04 08:53:46,161 - INFO - ✅ UCjA21yXfo45K9bsBh6cnEMA (501 videos)
+2026-02-04 08:53:47,662 - INFO - [34/165] UCESzruf9zmvsxnYhDD90aZg
+2026-02-04 08:53:47,789 - INFO - 🔑 Using API key 7
+2026-02-04 08:53:58,985 - INFO - 💾 Saved 475 records
+2026-02-04 08:53:58,985 - INFO - ✅ UCESzruf9zmvsxnYhDD90aZg (475 videos)
+2026-02-04 08:54:00,487 - INFO - [35/165] UCf24EETWqMuge4nHGdupbBg
+2026-02-04 08:54:00,642 - INFO - 🔑 Using API key 8
+2026-02-04 08:54:11,386 - INFO - 💾 Saved 467 records
+2026-02-04 08:54:11,387 - INFO - ✅ UCf24EETWqMuge4nHGdupbBg (467 videos)
+2026-02-04 08:54:12,888 - INFO - [36/165] UCn99j9f4osiS9rGCTSt-DFA
+2026-02-04 08:54:13,057 - INFO - 🔑 Using API key 9
+2026-02-04 08:54:23,824 - INFO - 💾 Saved 475 records
+2026-02-04 08:54:23,825 - INFO - ✅ UCn99j9f4osiS9rGCTSt-DFA (475 videos)
+2026-02-04 08:54:25,326 - INFO - [37/165] UCZY5pcEUwIyu_QlYJHGCnBg
+2026-02-04 08:54:25,457 - INFO - 🔑 Using API key 1
+2026-02-04 08:54:36,347 - INFO - 💾 Saved 456 records
+2026-02-04 08:54:36,349 - INFO - ✅ UCZY5pcEUwIyu_QlYJHGCnBg (456 videos)
+2026-02-04 08:54:37,851 - INFO - [38/165] UCyOuhHOe0c11kyksUmzVVPQ
+2026-02-04 08:54:38,008 - INFO - 🔑 Using API key 2
+2026-02-04 08:54:48,521 - INFO - 💾 Saved 468 records
+2026-02-04 08:54:48,522 - INFO - ✅ UCyOuhHOe0c11kyksUmzVVPQ (468 videos)
+2026-02-04 08:54:50,026 - INFO - [39/165] UCtRIWUz0BBqJPRa7m6EzjeQ
+2026-02-04 08:54:50,141 - INFO - 🔑 Using API key 3
+2026-02-04 08:55:00,313 - INFO - 💾 Saved 447 records
+2026-02-04 08:55:00,313 - INFO - ✅ UCtRIWUz0BBqJPRa7m6EzjeQ (447 videos)
+2026-02-04 08:55:01,815 - INFO - [40/165] UC73ReuNCWVq1zqBurvjeOpw
+2026-02-04 08:55:01,942 - INFO - 🔑 Using API key 4
+2026-02-04 08:55:11,744 - INFO - 💾 Saved 437 records
+2026-02-04 08:55:11,746 - INFO - ✅ UC73ReuNCWVq1zqBurvjeOpw (437 videos)
+2026-02-04 08:55:11,747 - INFO - 📝 Batch checkpoint: 10 channels
+2026-02-04 08:55:13,248 - INFO - [41/165] UC09tkerGeKBOC3ummtENfJw
+2026-02-04 08:55:13,404 - INFO - 🔑 Using API key 5
+2026-02-04 08:55:23,065 - INFO - 💾 Saved 434 records
+2026-02-04 08:55:23,066 - INFO - ✅ UC09tkerGeKBOC3ummtENfJw (434 videos)
+2026-02-04 08:55:24,567 - INFO - [42/165] UCqF0b7afzoPwdGYTQuPCGAA
+2026-02-04 08:55:24,699 - INFO - 🔑 Using API key 6
+2026-02-04 08:55:34,530 - INFO - 💾 Saved 434 records
+2026-02-04 08:55:34,531 - INFO - ✅ UCqF0b7afzoPwdGYTQuPCGAA (434 videos)
+2026-02-04 08:55:36,032 - INFO - [43/165] UChOdSAsCtN0quqOZ0mDUV0w
+2026-02-04 08:55:36,151 - INFO - 🔑 Using API key 7
+2026-02-04 08:55:46,256 - INFO - 💾 Saved 417 records
+2026-02-04 08:55:46,256 - INFO - ✅ UChOdSAsCtN0quqOZ0mDUV0w (417 videos)
+2026-02-04 08:55:47,758 - INFO - [44/165] UCUWJVAgUcpvWwKJXba5XoxQ
+2026-02-04 08:55:47,872 - INFO - 🔑 Using API key 8
+2026-02-04 08:55:57,387 - INFO - 💾 Saved 408 records
+2026-02-04 08:55:57,388 - INFO - ✅ UCUWJVAgUcpvWwKJXba5XoxQ (408 videos)
+2026-02-04 08:55:58,889 - INFO - [45/165] UCpgBDDiIBNJDeW-qtAeV8rQ
+2026-02-04 08:55:59,049 - INFO - 🔑 Using API key 9
+2026-02-04 08:56:08,743 - INFO - 💾 Saved 401 records
+2026-02-04 08:56:08,744 - INFO - ✅ UCpgBDDiIBNJDeW-qtAeV8rQ (401 videos)
+2026-02-04 08:56:10,245 - INFO - [46/165] UCcq-iiTMFu2xE2lCd1jXfbg
+2026-02-04 08:56:10,393 - INFO - 🔑 Using API key 1
+2026-02-04 08:56:19,055 - INFO - 💾 Saved 398 records
+2026-02-04 08:56:19,056 - INFO - ✅ UCcq-iiTMFu2xE2lCd1jXfbg (398 videos)
+2026-02-04 08:56:20,557 - INFO - [47/165] UCIrI6WSW6hAQOAuxkbIFyjA
+2026-02-04 08:56:20,703 - INFO - 🔑 Using API key 2
+2026-02-04 08:56:30,199 - INFO - 💾 Saved 417 records
+2026-02-04 08:56:30,200 - INFO - ✅ UCIrI6WSW6hAQOAuxkbIFyjA (417 videos)
+2026-02-04 08:56:31,701 - INFO - [48/165] UCg3rB9dfpSl1dZU8_AXHTDg
+2026-02-04 08:56:31,854 - INFO - 🔑 Using API key 3
+2026-02-04 08:56:40,684 - INFO - 💾 Saved 398 records
+2026-02-04 08:56:40,685 - INFO - ✅ UCg3rB9dfpSl1dZU8_AXHTDg (398 videos)
+2026-02-04 08:56:42,187 - INFO - [49/165] UCQTSjbfcat6slyl2KoqR0OQ
+2026-02-04 08:56:42,325 - INFO - 🔑 Using API key 4
+2026-02-04 08:56:51,093 - INFO - 💾 Saved 394 records
+2026-02-04 08:56:51,094 - INFO - ✅ UCQTSjbfcat6slyl2KoqR0OQ (394 videos)
+2026-02-04 08:56:52,596 - INFO - [50/165] UCdq-wtHzlN9jS7l1e9j9yrQ
+2026-02-04 08:56:52,716 - INFO - 🔑 Using API key 5
+2026-02-04 08:57:01,175 - INFO - 💾 Saved 398 records
+2026-02-04 08:57:01,176 - INFO - ✅ UCdq-wtHzlN9jS7l1e9j9yrQ (398 videos)
+2026-02-04 08:57:01,177 - INFO - 📝 Batch checkpoint: 10 channels
+2026-02-04 08:57:02,679 - INFO - [51/165] UCQG8Z87AWu-NNtcLtQpA3nA
+2026-02-04 08:57:02,809 - INFO - 🔑 Using API key 6
+2026-02-04 08:57:11,488 - INFO - 💾 Saved 393 records
+2026-02-04 08:57:11,489 - INFO - ✅ UCQG8Z87AWu-NNtcLtQpA3nA (393 videos)
+2026-02-04 08:57:12,999 - INFO - [52/165] UCJvCjv1W1MzzrT0Y_3MdVQg
+2026-02-04 08:57:13,125 - INFO - 🔑 Using API key 7
+2026-02-04 08:57:22,959 - INFO - 💾 Saved 403 records
+2026-02-04 08:57:22,960 - INFO - ✅ UCJvCjv1W1MzzrT0Y_3MdVQg (403 videos)
+2026-02-04 08:57:24,461 - INFO - [53/165] UC7aRFIYsO4McxbxnurAt4FQ
+2026-02-04 08:57:24,586 - INFO - 🔑 Using API key 8
+2026-02-04 08:57:33,709 - INFO - 💾 Saved 387 records
+2026-02-04 08:57:33,710 - INFO - ✅ UC7aRFIYsO4McxbxnurAt4FQ (387 videos)
+2026-02-04 08:57:35,212 - INFO - [54/165] UCdSgoILd_nUqms9KYtD-Ojg
+2026-02-04 08:57:35,361 - INFO - 🔑 Using API key 9
+2026-02-04 08:57:43,798 - INFO - 💾 Saved 380 records
+2026-02-04 08:57:43,799 - INFO - ✅ UCdSgoILd_nUqms9KYtD-Ojg (380 videos)
+2026-02-04 08:57:45,300 - INFO - [55/165] UC4sCXNOv0tjOvyX-ZZkEjRw
+2026-02-04 08:57:45,468 - INFO - 🔑 Using API key 1
+2026-02-04 08:57:54,060 - INFO - 💾 Saved 375 records
+2026-02-04 08:57:54,061 - INFO - ✅ UC4sCXNOv0tjOvyX-ZZkEjRw (375 videos)
+2026-02-04 08:57:55,562 - INFO - [56/165] UCb6hcSaRW0k7vbB1b3En3-w
+2026-02-04 08:57:55,706 - INFO - 🔑 Using API key 2
+2026-02-04 08:58:04,707 - INFO - 💾 Saved 384 records
+2026-02-04 08:58:04,708 - INFO - ✅ UCb6hcSaRW0k7vbB1b3En3-w (384 videos)
+2026-02-04 08:58:06,209 - INFO - [57/165] UC5F0_jm5CV2oOrEVFGDFNzA
+2026-02-04 08:58:06,368 - INFO - 🔑 Using API key 3
+2026-02-04 08:58:15,012 - INFO - 💾 Saved 364 records
+2026-02-04 08:58:15,013 - INFO - ✅ UC5F0_jm5CV2oOrEVFGDFNzA (364 videos)
+2026-02-04 08:58:16,516 - INFO - [58/165] UCRRcODoZ9Zt9NKJH4f5b2Rw
+2026-02-04 08:58:16,649 - INFO - 🔑 Using API key 4
+2026-02-04 08:58:25,250 - INFO - 💾 Saved 361 records
+2026-02-04 08:58:25,251 - INFO - ✅ UCRRcODoZ9Zt9NKJH4f5b2Rw (361 videos)
+2026-02-04 08:58:26,752 - INFO - [59/165] UCZ3pC91IhISuPaUzHCroV8Q
+2026-02-04 08:58:26,912 - INFO - 🔑 Using API key 5
+2026-02-04 08:58:35,475 - INFO - 💾 Saved 360 records
+2026-02-04 08:58:35,476 - INFO - ✅ UCZ3pC91IhISuPaUzHCroV8Q (360 videos)
+2026-02-04 08:58:36,978 - INFO - [60/165] UCKIfy8-P10EyTaM-bIbeFbA
+2026-02-04 08:58:37,114 - INFO - 🔑 Using API key 6
+2026-02-04 08:58:45,863 - INFO - 💾 Saved 353 records
+2026-02-04 08:58:45,864 - INFO - ✅ UCKIfy8-P10EyTaM-bIbeFbA (353 videos)
+2026-02-04 08:58:45,865 - INFO - 📝 Batch checkpoint: 10 channels
+2026-02-04 08:58:47,366 - INFO - [61/165] UCduxyaauWf_dENtZEdYyQpw
+2026-02-04 08:58:47,492 - INFO - 🔑 Using API key 7
+2026-02-04 08:58:56,227 - INFO - 💾 Saved 373 records
+2026-02-04 08:58:56,228 - INFO - ✅ UCduxyaauWf_dENtZEdYyQpw (373 videos)
+2026-02-04 08:58:57,730 - INFO - [62/165] UC49ilh_dTxyB5be6kzbWOEg
+2026-02-04 08:58:57,871 - INFO - 🔑 Using API key 8
+2026-02-04 08:59:05,474 - INFO - 💾 Saved 336 records
+2026-02-04 08:59:05,475 - INFO - ✅ UC49ilh_dTxyB5be6kzbWOEg (336 videos)
+2026-02-04 08:59:06,977 - INFO - [63/165] UCqM5P-etZ4gJ5hnTf0iTLiQ
+2026-02-04 08:59:07,106 - INFO - 🔑 Using API key 9
+2026-02-04 08:59:14,851 - INFO - 💾 Saved 344 records
+2026-02-04 08:59:14,852 - INFO - ✅ UCqM5P-etZ4gJ5hnTf0iTLiQ (344 videos)
+2026-02-04 08:59:16,354 - INFO - [64/165] UCwtgH1HLjlRCntIKCHmyQzA
+2026-02-04 08:59:16,464 - INFO - 🔑 Using API key 1
+2026-02-04 08:59:18,465 - INFO - 💾 Saved 57 records
+2026-02-04 08:59:18,466 - INFO - ✅ UCwtgH1HLjlRCntIKCHmyQzA (57 videos)
+2026-02-04 08:59:19,967 - INFO - [65/165] UCglAQI92ls5jg_U8lviW6hw
+2026-02-04 08:59:20,115 - INFO - 🔑 Using API key 2
+2026-02-04 08:59:27,435 - INFO - 💾 Saved 336 records
+2026-02-04 08:59:27,436 - INFO - ✅ UCglAQI92ls5jg_U8lviW6hw (336 videos)
+2026-02-04 08:59:28,937 - INFO - [66/165] UCTCEJCypL-cwp2EWlT5pmGg
+2026-02-04 08:59:29,060 - INFO - 🔑 Using API key 3
+2026-02-04 08:59:36,491 - INFO - 💾 Saved 333 records
+2026-02-04 08:59:36,492 - INFO - ✅ UCTCEJCypL-cwp2EWlT5pmGg (333 videos)
+2026-02-04 08:59:37,993 - INFO - [67/165] UCWadRaYPrE1kE4t9LuCd28w
+2026-02-04 08:59:38,155 - INFO - 🔑 Using API key 4
+2026-02-04 08:59:45,861 - INFO - 💾 Saved 325 records
+2026-02-04 08:59:45,862 - INFO - ✅ UCWadRaYPrE1kE4t9LuCd28w (325 videos)
+2026-02-04 08:59:47,364 - INFO - [68/165] UCDPAjqy87hOXUxFF6jXRgYQ
+2026-02-04 08:59:47,532 - INFO - 🔑 Using API key 5
+2026-02-04 08:59:52,816 - INFO - 💾 Saved 249 records
+2026-02-04 08:59:52,817 - INFO - ✅ UCDPAjqy87hOXUxFF6jXRgYQ (249 videos)
+2026-02-04 08:59:54,318 - INFO - [69/165] UCg1eotV1z2O1TW98B5OLHdQ
+2026-02-04 08:59:54,432 - INFO - 🔑 Using API key 6
+2026-02-04 09:00:02,024 - INFO - 💾 Saved 311 records
+2026-02-04 09:00:02,025 - INFO - ✅ UCg1eotV1z2O1TW98B5OLHdQ (311 videos)
+2026-02-04 09:00:03,527 - INFO - [70/165] UCA8w-kI2TThOlCAnuWPf11A
+2026-02-04 09:00:03,674 - INFO - 🔑 Using API key 7
+2026-02-04 09:00:10,813 - INFO - 💾 Saved 317 records
+2026-02-04 09:00:10,814 - INFO - ✅ UCA8w-kI2TThOlCAnuWPf11A (317 videos)
+2026-02-04 09:00:10,815 - INFO - 📝 Batch checkpoint: 10 channels
+2026-02-04 09:00:12,316 - INFO - [71/165] UC8g5rGEMba0FxPoEqhUkCKg
+2026-02-04 09:00:12,493 - INFO - 🔑 Using API key 8
+2026-02-04 09:00:19,353 - INFO - 💾 Saved 290 records
+2026-02-04 09:00:19,353 - INFO - ✅ UC8g5rGEMba0FxPoEqhUkCKg (290 videos)
+2026-02-04 09:00:20,855 - INFO - [72/165] UClCZr5VVlweVa11maLG4S9g
+2026-02-04 09:00:20,995 - INFO - 🔑 Using API key 9
+2026-02-04 09:00:27,603 - INFO - 💾 Saved 289 records
+2026-02-04 09:00:27,606 - INFO - ✅ UClCZr5VVlweVa11maLG4S9g (289 videos)
+2026-02-04 09:00:29,107 - INFO - [73/165] UC452fhlbjc70F0o2m35HlQg
+2026-02-04 09:00:29,249 - INFO - 🔑 Using API key 1
+2026-02-04 09:00:36,023 - INFO - 💾 Saved 289 records
+2026-02-04 09:00:36,024 - INFO - ✅ UC452fhlbjc70F0o2m35HlQg (289 videos)
+2026-02-04 09:00:37,525 - INFO - [74/165] UC8YnHlzQUVgok6ucC1iOJVA
+2026-02-04 09:00:37,693 - INFO - 🔑 Using API key 2
+2026-02-04 09:00:44,331 - ERROR - Error saving batch: A string literal cannot contain NUL (0x00) characters.
+2026-02-04 09:00:44,331 - INFO - ✅ UC8YnHlzQUVgok6ucC1iOJVA (276 videos)
+2026-02-04 09:00:45,833 - INFO - [75/165] UCG45Ij4-LFou34mnTiujtaA
+2026-02-04 09:00:45,944 - INFO - 🔑 Using API key 3
+2026-02-04 09:00:52,805 - INFO - 💾 Saved 296 records
+2026-02-04 09:00:52,806 - INFO - ✅ UCG45Ij4-LFou34mnTiujtaA (296 videos)
+2026-02-04 09:00:54,307 - INFO - [76/165] UC-KPlQ-G0tzHa24a4saEL2A
+2026-02-04 09:00:54,420 - INFO - 🔑 Using API key 4
+2026-02-04 09:01:00,967 - INFO - 💾 Saved 280 records
+2026-02-04 09:01:00,968 - INFO - ✅ UC-KPlQ-G0tzHa24a4saEL2A (280 videos)
+2026-02-04 09:01:02,469 - INFO - [77/165] UCQTJXj3eIyCYyBIfAUKq0Qg
+2026-02-04 09:01:02,584 - INFO - 🔑 Using API key 5
+2026-02-04 09:01:08,907 - INFO - 💾 Saved 260 records
+2026-02-04 09:01:08,908 - INFO - ✅ UCQTJXj3eIyCYyBIfAUKq0Qg (260 videos)
+2026-02-04 09:01:10,410 - INFO - [78/165] UC4LSIW6jRDMH7ks9oVtvGPQ
+2026-02-04 09:01:10,532 - INFO - 🔑 Using API key 6
+2026-02-04 09:01:17,007 - INFO - 💾 Saved 253 records
+2026-02-04 09:01:17,008 - INFO - ✅ UC4LSIW6jRDMH7ks9oVtvGPQ (253 videos)
+2026-02-04 09:01:18,510 - INFO - [79/165] UCMCmD7Ahs1g7hbEhkAHSdBw
+2026-02-04 09:01:18,657 - INFO - 🔑 Using API key 7
+2026-02-04 09:01:25,002 - INFO - 💾 Saved 253 records
+2026-02-04 09:01:25,003 - INFO - ✅ UCMCmD7Ahs1g7hbEhkAHSdBw (253 videos)
+2026-02-04 09:01:26,504 - INFO - [80/165] UCDPlTaQq7W7oCQkA8Simijg
+2026-02-04 09:01:26,616 - INFO - 🔑 Using API key 8
+2026-02-04 09:01:33,052 - INFO - 💾 Saved 256 records
+2026-02-04 09:01:33,053 - INFO - ✅ UCDPlTaQq7W7oCQkA8Simijg (256 videos)
+2026-02-04 09:01:33,054 - INFO - 📝 Batch checkpoint: 10 channels
+2026-02-04 09:01:34,555 - INFO - [81/165] UCq3FtGAX3cMKD1M5G47U26w
+2026-02-04 09:01:34,704 - INFO - 🔑 Using API key 9
+2026-02-04 09:01:40,439 - INFO - 💾 Saved 234 records
+2026-02-04 09:01:40,440 - INFO - ✅ UCq3FtGAX3cMKD1M5G47U26w (234 videos)
+2026-02-04 09:01:41,941 - INFO - [82/165] UC4T45N8gXC2JBxLEQILO1Sw
+2026-02-04 09:01:42,075 - INFO - 🔑 Using API key 1
+2026-02-04 09:01:47,601 - INFO - 💾 Saved 230 records
+2026-02-04 09:01:47,601 - INFO - ✅ UC4T45N8gXC2JBxLEQILO1Sw (230 videos)
+2026-02-04 09:01:49,103 - INFO - [83/165] UC4DUu8cyH322GPl9HABjykQ
+2026-02-04 09:01:49,235 - INFO - 🔑 Using API key 2
+2026-02-04 09:01:54,591 - INFO - 💾 Saved 226 records
+2026-02-04 09:01:54,591 - INFO - ✅ UC4DUu8cyH322GPl9HABjykQ (226 videos)
+2026-02-04 09:01:56,094 - INFO - [84/165] UCQOEDcYQCphEoq5CQYf838g
+2026-02-04 09:01:56,227 - INFO - 🔑 Using API key 3
+2026-02-04 09:02:01,504 - INFO - 💾 Saved 225 records
+2026-02-04 09:02:01,505 - INFO - ✅ UCQOEDcYQCphEoq5CQYf838g (225 videos)
+2026-02-04 09:02:03,006 - INFO - [85/165] UCvjlryUsOPotcLjWIrLY0eg
+2026-02-04 09:02:03,163 - INFO - 🔑 Using API key 4
+2026-02-04 09:02:08,329 - INFO - 💾 Saved 221 records
+2026-02-04 09:02:08,330 - INFO - ✅ UCvjlryUsOPotcLjWIrLY0eg (221 videos)
+2026-02-04 09:02:09,832 - INFO - [86/165] UC_3wjSjftwZEgh4WqPgj5og
+2026-02-04 09:02:09,961 - INFO - 🔑 Using API key 5
+2026-02-04 09:02:15,302 - INFO - 💾 Saved 217 records
+2026-02-04 09:02:15,304 - INFO - ✅ UC_3wjSjftwZEgh4WqPgj5og (217 videos)
+2026-02-04 09:02:16,807 - INFO - [87/165] UCqq0je5VH1sWVSx1ikBJmZQ
+2026-02-04 09:02:16,951 - INFO - 🔑 Using API key 6
+2026-02-04 09:02:17,192 - ERROR - Error fetching videos: <HttpError 404 when requesting https://youtube.googleapis.com/youtube/v3/playlistItems?part=snippet%2CcontentDetails&playlistId=UUqq0je5VH1sWVSx1ikBJmZQ&maxResults=50&key=AIzaSyA4i8r1HHmZvezt3hYci7A-2Y5xJyryvsQ&alt=json returned "The playlist identified with the request's <code>playlistId</code> parameter cannot be found.". Details: "[{'message': "The playlist identified with the request's <code>playlistId</code> parameter cannot be found.", 'domain': 'youtube.playlistItem', 'reason': 'playlistNotFound', 'location': 'playlistId', 'locationType': 'parameter'}]">
+2026-02-04 09:02:17,193 - INFO - No videos for UCqq0je5VH1sWVSx1ikBJmZQ
+2026-02-04 09:02:18,693 - INFO - [88/165] UCUXjeiOaEu-moN0hCbYjhhw
+2026-02-04 09:02:18,824 - INFO - 🔑 Using API key 7
+2026-02-04 09:02:24,074 - INFO - 💾 Saved 214 records
+2026-02-04 09:02:24,075 - INFO - ✅ UCUXjeiOaEu-moN0hCbYjhhw (214 videos)
+2026-02-04 09:02:25,578 - INFO - [89/165] UCdPXMW_wOCsgTF-4wHlZuRQ
+2026-02-04 09:02:25,719 - INFO - 🔑 Using API key 8
+2026-02-04 09:02:30,107 - INFO - 💾 Saved 196 records
+2026-02-04 09:02:30,109 - INFO - ✅ UCdPXMW_wOCsgTF-4wHlZuRQ (196 videos)
+2026-02-04 09:02:31,615 - INFO - [90/165] UCGm_75fDRDG9bZUqN4iaIuQ
+2026-02-04 09:02:31,731 - INFO - 🔑 Using API key 9
+2026-02-04 09:02:36,204 - INFO - 💾 Saved 191 records
+2026-02-04 09:02:36,204 - INFO - ✅ UCGm_75fDRDG9bZUqN4iaIuQ (191 videos)
+2026-02-04 09:02:36,206 - INFO - 📝 Batch checkpoint: 10 channels
+2026-02-04 09:02:37,711 - INFO - [91/165] UCDIOfw-EVexPloscyOPOouA
+2026-02-04 09:02:37,840 - INFO - 🔑 Using API key 1
+2026-02-04 09:02:42,358 - INFO - 💾 Saved 184 records
+2026-02-04 09:02:42,360 - INFO - ✅ UCDIOfw-EVexPloscyOPOouA (184 videos)
+2026-02-04 09:02:43,863 - INFO - [92/165] UC3xNjja8cmTGLd1C_CSHb9Q
+2026-02-04 09:02:44,015 - INFO - 🔑 Using API key 2
+2026-02-04 09:02:44,995 - INFO - 💾 Saved 13 records
+2026-02-04 09:02:44,996 - INFO - ✅ UC3xNjja8cmTGLd1C_CSHb9Q (13 videos)
+2026-02-04 09:02:46,497 - INFO - [93/165] UC6zDrtDGwXxIctlopY-krIA
+2026-02-04 09:02:46,618 - INFO - 🔑 Using API key 3
+2026-02-04 09:02:51,182 - INFO - 💾 Saved 182 records
+2026-02-04 09:02:51,183 - INFO - ✅ UC6zDrtDGwXxIctlopY-krIA (182 videos)
+2026-02-04 09:02:52,685 - INFO - [94/165] UC-9NGh65n5s_-MB8NGKQDbg
+2026-02-04 09:02:52,802 - INFO - 🔑 Using API key 4
+2026-02-04 09:02:57,251 - INFO - 💾 Saved 175 records
+2026-02-04 09:02:57,251 - INFO - ✅ UC-9NGh65n5s_-MB8NGKQDbg (175 videos)
+2026-02-04 09:02:58,753 - INFO - [95/165] UCk-VTU46aiUq-m8oTDVKtvw
+2026-02-04 09:02:58,898 - INFO - 🔑 Using API key 5
+2026-02-04 09:03:03,050 - INFO - 💾 Saved 175 records
+2026-02-04 09:03:03,051 - INFO - ✅ UCk-VTU46aiUq-m8oTDVKtvw (175 videos)
+2026-02-04 09:03:04,553 - INFO - [96/165] UCu4-TRmUcHhtt9IZgPUPcJQ
+2026-02-04 09:03:04,688 - INFO - 🔑 Using API key 6
+2026-02-04 09:03:08,760 - INFO - 💾 Saved 173 records
+2026-02-04 09:03:08,761 - INFO - ✅ UCu4-TRmUcHhtt9IZgPUPcJQ (173 videos)
+2026-02-04 09:03:10,262 - INFO - [97/165] UCOoijxiGTquD73JT6jSr9vA
+2026-02-04 09:03:10,384 - INFO - 🔑 Using API key 7
+2026-02-04 09:03:14,540 - INFO - 💾 Saved 172 records
+2026-02-04 09:03:14,541 - INFO - ✅ UCOoijxiGTquD73JT6jSr9vA (172 videos)
+2026-02-04 09:03:16,043 - INFO - [98/165] UCfTbY7-gouVzMHgUAzzM7VA
+2026-02-04 09:03:16,206 - INFO - 🔑 Using API key 8
+2026-02-04 09:03:20,372 - INFO - 💾 Saved 169 records
+2026-02-04 09:03:20,373 - INFO - ✅ UCfTbY7-gouVzMHgUAzzM7VA (169 videos)
+2026-02-04 09:03:21,874 - INFO - [99/165] UC3hfeta4IUaARcVuDKmEExA
+2026-02-04 09:03:21,992 - INFO - 🔑 Using API key 9
+2026-02-04 09:03:26,195 - INFO - 💾 Saved 164 records
+2026-02-04 09:03:26,196 - INFO - ✅ UC3hfeta4IUaARcVuDKmEExA (164 videos)
+2026-02-04 09:03:27,698 - INFO - [100/165] UCoHet7OahtrSikzoWBDRZmg
+2026-02-04 09:03:27,810 - INFO - 🔑 Using API key 1
+2026-02-04 09:03:32,273 - INFO - 💾 Saved 169 records
+2026-02-04 09:03:32,274 - INFO - ✅ UCoHet7OahtrSikzoWBDRZmg (169 videos)
+2026-02-04 09:03:32,276 - INFO - 📝 Batch checkpoint: 10 channels
+2026-02-04 09:03:33,776 - INFO - [101/165] UC57r6gzHRnwc1OKPnLC3-tg
+2026-02-04 09:03:33,927 - INFO - 🔑 Using API key 2
+2026-02-04 09:03:38,037 - INFO - 💾 Saved 161 records
+2026-02-04 09:03:38,038 - INFO - ✅ UC57r6gzHRnwc1OKPnLC3-tg (161 videos)
+2026-02-04 09:03:39,539 - INFO - [102/165] UCfNlYAze2JxHMH4-aBV5_tw
+2026-02-04 09:03:39,677 - INFO - 🔑 Using API key 3
+2026-02-04 09:03:43,682 - INFO - 💾 Saved 153 records
+2026-02-04 09:03:43,682 - INFO - ✅ UCfNlYAze2JxHMH4-aBV5_tw (153 videos)
+2026-02-04 09:03:45,184 - INFO - [103/165] UCDuZuHVtOJibY3Cg7lQI48Q
+2026-02-04 09:03:45,330 - INFO - 🔑 Using API key 4
+2026-02-04 09:03:48,560 - INFO - 💾 Saved 150 records
+2026-02-04 09:03:48,561 - INFO - ✅ UCDuZuHVtOJibY3Cg7lQI48Q (150 videos)
+2026-02-04 09:03:50,065 - INFO - [104/165] UC_u6UvnqS139y_yawd8Qx7w
+2026-02-04 09:03:50,198 - INFO - 🔑 Using API key 5
+2026-02-04 09:03:53,570 - INFO - 💾 Saved 148 records
+2026-02-04 09:03:53,574 - INFO - ✅ UC_u6UvnqS139y_yawd8Qx7w (148 videos)
+2026-02-04 09:03:55,080 - INFO - [105/165] UCE0alNwEql4FBloYI0OupFA
+2026-02-04 09:03:55,233 - INFO - 🔑 Using API key 6
+2026-02-04 09:03:58,674 - INFO - 💾 Saved 144 records
+2026-02-04 09:03:58,675 - INFO - ✅ UCE0alNwEql4FBloYI0OupFA (144 videos)
+2026-02-04 09:04:00,177 - INFO - [106/165] UCGkz5RH8QZOIj9RfBuBgPVA
+2026-02-04 09:04:00,333 - INFO - 🔑 Using API key 7
+2026-02-04 09:04:03,370 - INFO - 💾 Saved 134 records
+2026-02-04 09:04:03,370 - INFO - ✅ UCGkz5RH8QZOIj9RfBuBgPVA (134 videos)
+2026-02-04 09:04:04,872 - INFO - [107/165] UCXMyFooSa3d09r7DKERIMQw
+2026-02-04 09:04:05,030 - INFO - 🔑 Using API key 8
+2026-02-04 09:04:05,181 - WARNING - No uploads playlist for UCXMyFooSa3d09r7DKERIMQw
+2026-02-04 09:04:06,682 - INFO - [108/165] UC52jYVU8qrB2gjykK48-sSQ
+2026-02-04 09:04:06,805 - INFO - 🔑 Using API key 9
+2026-02-04 09:04:09,915 - INFO - 💾 Saved 128 records
+2026-02-04 09:04:09,916 - INFO - ✅ UC52jYVU8qrB2gjykK48-sSQ (128 videos)
+2026-02-04 09:04:11,417 - INFO - [109/165] UCgxvj4WuZfSJqQP5Xqe0tGA
+2026-02-04 09:04:11,584 - INFO - 🔑 Using API key 1
+2026-02-04 09:04:14,914 - INFO - 💾 Saved 127 records
+2026-02-04 09:04:14,915 - INFO - ✅ UCgxvj4WuZfSJqQP5Xqe0tGA (127 videos)
+2026-02-04 09:04:16,416 - INFO - [110/165] UCUlf29cZzr6GOUnO6Hv9hPA
+2026-02-04 09:04:16,551 - INFO - 🔑 Using API key 2
+2026-02-04 09:04:16,683 - WARNING - No uploads playlist for UCUlf29cZzr6GOUnO6Hv9hPA
+2026-02-04 09:04:16,683 - INFO - 📝 Batch checkpoint: 10 channels
+2026-02-04 09:04:18,184 - INFO - [111/165] UCi-rTVxFl3bbeTSChGlBNyQ
+2026-02-04 09:04:18,305 - INFO - 🔑 Using API key 3
+2026-02-04 09:04:21,475 - INFO - 💾 Saved 130 records
+2026-02-04 09:04:21,476 - INFO - ✅ UCi-rTVxFl3bbeTSChGlBNyQ (130 videos)
+2026-02-04 09:04:22,983 - INFO - [112/165] UCpCt0qmilHwdcYEMHJQWEvw
+2026-02-04 09:04:23,162 - INFO - 🔑 Using API key 4
+2026-02-04 09:04:26,135 - INFO - 💾 Saved 122 records
+2026-02-04 09:04:26,136 - INFO - ✅ UCpCt0qmilHwdcYEMHJQWEvw (122 videos)
+2026-02-04 09:04:27,637 - INFO - [113/165] UCRHOG_6gCyGJd0bQerfFPOw
+2026-02-04 09:04:27,792 - INFO - 🔑 Using API key 5
+2026-02-04 09:04:30,998 - INFO - 💾 Saved 146 records
+2026-02-04 09:04:30,999 - INFO - ✅ UCRHOG_6gCyGJd0bQerfFPOw (146 videos)
+2026-02-04 09:04:32,501 - INFO - [114/165] UC-XZeENWTB_GUgf7uilcnIg
+2026-02-04 09:04:32,632 - INFO - 🔑 Using API key 6
+2026-02-04 09:04:35,731 - INFO - 💾 Saved 117 records
+2026-02-04 09:04:35,732 - INFO - ✅ UC-XZeENWTB_GUgf7uilcnIg (117 videos)
+2026-02-04 09:04:37,235 - INFO - [115/165] UCXS47Rh2utEReOrw26eN1Bg
+2026-02-04 09:04:37,382 - INFO - 🔑 Using API key 7
+2026-02-04 09:04:40,594 - INFO - 💾 Saved 116 records
+2026-02-04 09:04:40,594 - INFO - ✅ UCXS47Rh2utEReOrw26eN1Bg (116 videos)
+2026-02-04 09:04:42,096 - INFO - [116/165] UCoGorYvIOvC1OwLABJMPtUg
+2026-02-04 09:04:42,237 - INFO - 🔑 Using API key 8
+2026-02-04 09:04:45,339 - INFO - 💾 Saved 114 records
+2026-02-04 09:04:45,340 - INFO - ✅ UCoGorYvIOvC1OwLABJMPtUg (114 videos)
+2026-02-04 09:04:46,842 - INFO - [117/165] UCODLlr1H5bFr1I_1tuz4cWg
+2026-02-04 09:04:46,967 - INFO - 🔑 Using API key 9
+2026-02-04 09:04:49,970 - INFO - 💾 Saved 108 records
+2026-02-04 09:04:49,970 - INFO - ✅ UCODLlr1H5bFr1I_1tuz4cWg (108 videos)
+2026-02-04 09:04:51,472 - INFO - [118/165] UCfuKaIWlT3-zsjrRFMnSssQ
+2026-02-04 09:04:51,615 - INFO - 🔑 Using API key 1
+2026-02-04 09:04:54,603 - INFO - 💾 Saved 101 records
+2026-02-04 09:04:54,604 - INFO - ✅ UCfuKaIWlT3-zsjrRFMnSssQ (101 videos)
+2026-02-04 09:04:56,106 - INFO - [119/165] UCRHO_-fKUgT-nVpPgWR39Ow
+2026-02-04 09:04:56,237 - INFO - 🔑 Using API key 2
+2026-02-04 09:04:58,419 - INFO - 💾 Saved 99 records
+2026-02-04 09:04:58,420 - INFO - ✅ UCRHO_-fKUgT-nVpPgWR39Ow (99 videos)
+2026-02-04 09:04:59,923 - INFO - [120/165] UCuE5U6kd-mumJJ2Ou3aCgiA
+2026-02-04 09:05:00,081 - INFO - 🔑 Using API key 3
+2026-02-04 09:05:03,194 - INFO - 💾 Saved 103 records
+2026-02-04 09:05:03,195 - INFO - ✅ UCuE5U6kd-mumJJ2Ou3aCgiA (103 videos)
+2026-02-04 09:05:03,195 - INFO - 📝 Batch checkpoint: 10 channels
+2026-02-04 09:05:04,696 - INFO - [121/165] UChdTgHagnuo4iSH9Kip-RFA
+2026-02-04 09:05:04,830 - INFO - 🔑 Using API key 4
+2026-02-04 09:05:06,965 - INFO - 💾 Saved 90 records
+2026-02-04 09:05:06,966 - INFO - ✅ UChdTgHagnuo4iSH9Kip-RFA (90 videos)
+2026-02-04 09:05:08,467 - INFO - [122/165] UC4mLRHr8iWhuhwbU4eYg9Bg
+2026-02-04 09:05:08,588 - INFO - 🔑 Using API key 5
+2026-02-04 09:05:10,726 - INFO - 💾 Saved 93 records
+2026-02-04 09:05:10,728 - INFO - ✅ UC4mLRHr8iWhuhwbU4eYg9Bg (93 videos)
+2026-02-04 09:05:12,230 - INFO - [123/165] UCTT2wAFDxm8xleLyfgMg5CQ
+2026-02-04 09:05:12,349 - INFO - 🔑 Using API key 6
+2026-02-04 09:05:12,523 - WARNING - No uploads playlist for UCTT2wAFDxm8xleLyfgMg5CQ
+2026-02-04 09:05:14,024 - INFO - [124/165] UCIEX_Iur0ryYcB5E9kC-Unw
+2026-02-04 09:05:14,186 - INFO - 🔑 Using API key 7
+2026-02-04 09:05:16,319 - INFO - 💾 Saved 88 records
+2026-02-04 09:05:16,320 - INFO - ✅ UCIEX_Iur0ryYcB5E9kC-Unw (88 videos)
+2026-02-04 09:05:17,821 - INFO - [125/165] UCfOiA8goBn0i5i3kXPxvC3g
+2026-02-04 09:05:17,933 - INFO - 🔑 Using API key 8
+2026-02-04 09:05:19,978 - INFO - 💾 Saved 87 records
+2026-02-04 09:05:19,979 - INFO - ✅ UCfOiA8goBn0i5i3kXPxvC3g (87 videos)
+2026-02-04 09:05:21,480 - INFO - [126/165] UCIm6x8A-abDIktWWZttIdig
+2026-02-04 09:05:21,632 - INFO - 🔑 Using API key 9
+2026-02-04 09:05:23,870 - INFO - 💾 Saved 85 records
+2026-02-04 09:05:23,870 - INFO - ✅ UCIm6x8A-abDIktWWZttIdig (85 videos)
+2026-02-04 09:05:25,371 - INFO - [127/165] UC34ennpdXCH-DdyhJKkhVXA
+2026-02-04 09:05:25,492 - INFO - 🔑 Using API key 1
+2026-02-04 09:05:27,675 - INFO - 💾 Saved 83 records
+2026-02-04 09:05:27,676 - INFO - ✅ UC34ennpdXCH-DdyhJKkhVXA (83 videos)
+2026-02-04 09:05:29,180 - INFO - [128/165] UCFzC5BStOAElm4OtvnQscjg
+2026-02-04 09:05:29,315 - INFO - 🔑 Using API key 2
+2026-02-04 09:05:31,516 - INFO - 💾 Saved 82 records
+2026-02-04 09:05:31,517 - INFO - ✅ UCFzC5BStOAElm4OtvnQscjg (82 videos)
+2026-02-04 09:05:33,018 - INFO - [129/165] UCYLEdvqJWECxrxysSuZ0g_g
+2026-02-04 09:05:33,169 - INFO - 🔑 Using API key 3
+2026-02-04 09:05:35,320 - INFO - 💾 Saved 80 records
+2026-02-04 09:05:35,321 - INFO - ✅ UCYLEdvqJWECxrxysSuZ0g_g (80 videos)
+2026-02-04 09:05:36,822 - INFO - [130/165] UCxy49ZLxzA_FZTH2OzQJenw
+2026-02-04 09:05:36,974 - INFO - 🔑 Using API key 4
+2026-02-04 09:05:39,042 - INFO - 💾 Saved 78 records
+2026-02-04 09:05:39,042 - INFO - ✅ UCxy49ZLxzA_FZTH2OzQJenw (78 videos)
+2026-02-04 09:05:39,043 - INFO - 📝 Batch checkpoint: 10 channels
+2026-02-04 09:05:40,545 - INFO - [131/165] UCpsCiPLWcZFmMymv0HRG4qg
+2026-02-04 09:05:40,660 - INFO - 🔑 Using API key 5
+2026-02-04 09:05:42,752 - INFO - 💾 Saved 74 records
+2026-02-04 09:05:42,752 - INFO - ✅ UCpsCiPLWcZFmMymv0HRG4qg (74 videos)
+2026-02-04 09:05:44,255 - INFO - [132/165] UCwr5tdFEhCE96ZKXv9B4Emg
+2026-02-04 09:05:44,385 - INFO - 🔑 Using API key 6
+2026-02-04 09:05:45,234 - INFO - 💾 Saved 3 records
+2026-02-04 09:05:45,235 - INFO - ✅ UCwr5tdFEhCE96ZKXv9B4Emg (3 videos)
+2026-02-04 09:05:46,736 - INFO - [133/165] UCKmFMJaUUqEW9OoNmB-gwkA
+2026-02-04 09:05:46,896 - INFO - 🔑 Using API key 7
+2026-02-04 09:05:48,943 - INFO - 💾 Saved 68 records
+2026-02-04 09:05:48,944 - INFO - ✅ UCKmFMJaUUqEW9OoNmB-gwkA (68 videos)
+2026-02-04 09:05:50,445 - INFO - [134/165] UCwe9JG7b2HmvC2rWFQJXFrg
+2026-02-04 09:05:50,670 - INFO - 🔑 Using API key 8
+2026-02-04 09:05:52,812 - INFO - 💾 Saved 70 records
+2026-02-04 09:05:52,813 - INFO - ✅ UCwe9JG7b2HmvC2rWFQJXFrg (70 videos)
+2026-02-04 09:05:54,315 - INFO - [135/165] UCqiQxgCLOf3qb7-3FcrJxYw
+2026-02-04 09:05:54,446 - INFO - 🔑 Using API key 9
+2026-02-04 09:05:56,521 - INFO - 💾 Saved 67 records
+2026-02-04 09:05:56,525 - INFO - ✅ UCqiQxgCLOf3qb7-3FcrJxYw (67 videos)
+2026-02-04 09:05:58,026 - INFO - [136/165] UC2JcqHTeLyt3f9A0RxBZWSQ
+2026-02-04 09:05:58,174 - INFO - 🔑 Using API key 1
+2026-02-04 09:06:00,096 - INFO - 💾 Saved 60 records
+2026-02-04 09:06:00,097 - INFO - ✅ UC2JcqHTeLyt3f9A0RxBZWSQ (60 videos)
+2026-02-04 09:06:01,598 - INFO - [137/165] UCX92w3qH8njz8O7Oko4qxxQ
+2026-02-04 09:06:01,747 - INFO - 🔑 Using API key 2
+2026-02-04 09:06:03,850 - INFO - 💾 Saved 58 records
+2026-02-04 09:06:03,851 - INFO - ✅ UCX92w3qH8njz8O7Oko4qxxQ (58 videos)
+2026-02-04 09:06:05,352 - INFO - [138/165] UCFxUAVdhi6rzypRVEaNQNvw
+2026-02-04 09:06:05,483 - INFO - 🔑 Using API key 3
+2026-02-04 09:06:07,509 - INFO - 💾 Saved 56 records
+2026-02-04 09:06:07,510 - INFO - ✅ UCFxUAVdhi6rzypRVEaNQNvw (56 videos)
+2026-02-04 09:06:09,011 - INFO - [139/165] UCJyLgr3JpHQ72x1RefJz7qg
+2026-02-04 09:06:09,135 - INFO - 🔑 Using API key 4
+2026-02-04 09:06:11,180 - INFO - 💾 Saved 59 records
+2026-02-04 09:06:11,181 - INFO - ✅ UCJyLgr3JpHQ72x1RefJz7qg (59 videos)
+2026-02-04 09:06:12,683 - INFO - [140/165] UCibutKDmgn_Mkyr55WVenWw
+2026-02-04 09:06:12,835 - INFO - 🔑 Using API key 5
+2026-02-04 09:06:14,789 - INFO - 💾 Saved 58 records
+2026-02-04 09:06:14,789 - INFO - ✅ UCibutKDmgn_Mkyr55WVenWw (58 videos)
+2026-02-04 09:06:14,793 - INFO - 📝 Batch checkpoint: 10 channels
+2026-02-04 09:06:16,294 - INFO - [141/165] UCz0kzqSxN1UgQLhqp5zox6A
+2026-02-04 09:06:16,451 - INFO - 🔑 Using API key 6
+2026-02-04 09:06:18,333 - INFO - 💾 Saved 54 records
+2026-02-04 09:06:18,334 - INFO - ✅ UCz0kzqSxN1UgQLhqp5zox6A (54 videos)
+2026-02-04 09:06:19,835 - INFO - [142/165] UCvkQsCSgbOON8B06qjU0WwA
+2026-02-04 09:06:19,933 - INFO - 🔑 Using API key 7
+2026-02-04 09:06:21,873 - INFO - 💾 Saved 53 records
+2026-02-04 09:06:21,874 - INFO - ✅ UCvkQsCSgbOON8B06qjU0WwA (53 videos)
+2026-02-04 09:06:23,375 - INFO - [143/165] UCFvRgMXASRGFnbyxnDHTVFQ
+2026-02-04 09:06:23,539 - INFO - 🔑 Using API key 8
+2026-02-04 09:06:24,631 - INFO - 💾 Saved 50 records
+2026-02-04 09:06:24,632 - INFO - ✅ UCFvRgMXASRGFnbyxnDHTVFQ (50 videos)
+2026-02-04 09:06:26,134 - INFO - [144/165] UC_zRriwC3fyLeCtYjRS9MKQ
+2026-02-04 09:06:26,268 - INFO - 🔑 Using API key 9
+2026-02-04 09:06:26,447 - WARNING - No uploads playlist for UC_zRriwC3fyLeCtYjRS9MKQ
+2026-02-04 09:06:27,948 - INFO - [145/165] UCRM1jMetAnaLdxZDBu4JUfQ
+2026-02-04 09:06:28,077 - INFO - 🔑 Using API key 1
+2026-02-04 09:06:29,118 - INFO - 💾 Saved 47 records
+2026-02-04 09:06:29,119 - INFO - ✅ UCRM1jMetAnaLdxZDBu4JUfQ (47 videos)
+2026-02-04 09:06:30,621 - INFO - [146/165] UC2kSB8grOE6_iq9K41te9jA
+2026-02-04 09:06:30,757 - INFO - 🔑 Using API key 2
+2026-02-04 09:06:31,899 - INFO - 💾 Saved 48 records
+2026-02-04 09:06:31,900 - INFO - ✅ UC2kSB8grOE6_iq9K41te9jA (48 videos)
+2026-02-04 09:06:33,402 - INFO - [147/165] UC1u7zavlJVYXTODn_5PE2pQ
+2026-02-04 09:06:33,551 - INFO - 🔑 Using API key 3
+2026-02-04 09:06:34,644 - INFO - 💾 Saved 50 records
+2026-02-04 09:06:34,654 - INFO - ✅ UC1u7zavlJVYXTODn_5PE2pQ (50 videos)
+2026-02-04 09:06:36,156 - INFO - [148/165] UCLy_Vy1mCc5XfWlqr1jtglQ
+2026-02-04 09:06:36,301 - INFO - 🔑 Using API key 4
+2026-02-04 09:06:37,426 - INFO - 💾 Saved 42 records
+2026-02-04 09:06:37,426 - INFO - ✅ UCLy_Vy1mCc5XfWlqr1jtglQ (42 videos)
+2026-02-04 09:06:38,928 - INFO - [149/165] UCiQIQhWSnAw6PLF_F0lZ1GA
+2026-02-04 09:06:39,045 - INFO - 🔑 Using API key 5
+2026-02-04 09:06:40,008 - INFO - 💾 Saved 40 records
+2026-02-04 09:06:40,009 - INFO - ✅ UCiQIQhWSnAw6PLF_F0lZ1GA (40 videos)
+2026-02-04 09:06:41,511 - INFO - [150/165] UCcMNJef6eYccXdnCJrZbkvg
+2026-02-04 09:06:41,675 - INFO - 🔑 Using API key 6
+2026-02-04 09:06:42,743 - INFO - 💾 Saved 42 records
+2026-02-04 09:06:42,744 - INFO - ✅ UCcMNJef6eYccXdnCJrZbkvg (42 videos)
+2026-02-04 09:06:42,745 - INFO - 📝 Batch checkpoint: 10 channels
+2026-02-04 09:06:44,245 - INFO - [151/165] UCFKmdahskstK6Hwp0Sar7Jw
+2026-02-04 09:06:44,401 - INFO - 🔑 Using API key 7
+2026-02-04 09:06:45,520 - INFO - 💾 Saved 39 records
+2026-02-04 09:06:45,521 - INFO - ✅ UCFKmdahskstK6Hwp0Sar7Jw (39 videos)
+2026-02-04 09:06:47,022 - INFO - [152/165] UC6SxxY0ewGIMuMOrFoEVfXA
+2026-02-04 09:06:47,139 - INFO - 🔑 Using API key 8
+2026-02-04 09:06:48,219 - INFO - 💾 Saved 38 records
+2026-02-04 09:06:48,220 - INFO - ✅ UC6SxxY0ewGIMuMOrFoEVfXA (38 videos)
+2026-02-04 09:06:49,721 - INFO - [153/165] UCxMRdjE3Z6SXB4ICsM0GumQ
+2026-02-04 09:06:49,880 - INFO - 🔑 Using API key 9
+2026-02-04 09:06:50,034 - WARNING - No uploads playlist for UCxMRdjE3Z6SXB4ICsM0GumQ
+2026-02-04 09:06:51,535 - INFO - [154/165] UC4MBhFiMZHb1jhOi58L6cBg
+2026-02-04 09:06:51,701 - INFO - 🔑 Using API key 1
+2026-02-04 09:06:52,704 - INFO - 💾 Saved 36 records
+2026-02-04 09:06:52,705 - INFO - ✅ UC4MBhFiMZHb1jhOi58L6cBg (36 videos)
+2026-02-04 09:06:54,206 - INFO - [155/165] UC-LY9J8zcPJP3ElsX235PjA
+2026-02-04 09:06:54,342 - INFO - 🔑 Using API key 2
+2026-02-04 09:06:55,393 - INFO - 💾 Saved 36 records
+2026-02-04 09:06:55,394 - INFO - ✅ UC-LY9J8zcPJP3ElsX235PjA (36 videos)
+2026-02-04 09:06:56,896 - INFO - [156/165] UC5UuQFuDLMePp05YFTUi7TQ
+2026-02-04 09:06:57,011 - INFO - 🔑 Using API key 3
+2026-02-04 09:06:58,207 - INFO - 💾 Saved 35 records
+2026-02-04 09:06:58,207 - INFO - ✅ UC5UuQFuDLMePp05YFTUi7TQ (35 videos)
+2026-02-04 09:06:59,708 - INFO - [157/165] UC6_Nf3I45R0nCdA3x6s-P5Q
+2026-02-04 09:06:59,819 - INFO - 🔑 Using API key 4
+2026-02-04 09:07:00,727 - INFO - 💾 Saved 4 records
+2026-02-04 09:07:00,728 - INFO - ✅ UC6_Nf3I45R0nCdA3x6s-P5Q (4 videos)
+2026-02-04 09:07:02,235 - INFO - [158/165] UC-Z0iODClsQ5QymrvNNxn9Q
+2026-02-04 09:07:02,386 - INFO - 🔑 Using API key 5
+2026-02-04 09:07:03,378 - INFO - 💾 Saved 34 records
+2026-02-04 09:07:03,378 - INFO - ✅ UC-Z0iODClsQ5QymrvNNxn9Q (34 videos)
+2026-02-04 09:07:04,880 - INFO - [159/165] UCuw-Okj2w3qVkRHrga8eR5A
+2026-02-04 09:07:05,024 - INFO - 🔑 Using API key 6
+2026-02-04 09:07:06,063 - INFO - 💾 Saved 32 records
+2026-02-04 09:07:06,063 - INFO - ✅ UCuw-Okj2w3qVkRHrga8eR5A (32 videos)
+2026-02-04 09:07:07,565 - INFO - [160/165] UC0KXzp4WAW2iWiWXcv5z8MQ
+2026-02-04 09:07:07,673 - INFO - 🔑 Using API key 7
+2026-02-04 09:07:07,809 - WARNING - No uploads playlist for UC0KXzp4WAW2iWiWXcv5z8MQ
+2026-02-04 09:07:07,810 - INFO - 📝 Batch checkpoint: 10 channels
+2026-02-04 09:07:09,310 - INFO - [161/165] UC2qklZ67yzJsaSdla-jQ4YQ
+2026-02-04 09:07:09,483 - INFO - 🔑 Using API key 8
+2026-02-04 09:07:10,546 - INFO - 💾 Saved 31 records
+2026-02-04 09:07:10,547 - INFO - ✅ UC2qklZ67yzJsaSdla-jQ4YQ (31 videos)
+2026-02-04 09:07:12,048 - INFO - [162/165] UCIULR1tq0dJ-CNNA9KQbC7A
+2026-02-04 09:07:12,180 - INFO - 🔑 Using API key 9
+2026-02-04 09:07:13,087 - INFO - 💾 Saved 30 records
+2026-02-04 09:07:13,087 - INFO - ✅ UCIULR1tq0dJ-CNNA9KQbC7A (30 videos)
+2026-02-04 09:07:14,588 - INFO - [163/165] UCr7qJCgJq1yCfn7buq9LJVw
+2026-02-04 09:07:14,752 - INFO - 🔑 Using API key 1
+2026-02-04 09:07:15,779 - INFO - 💾 Saved 27 records
+2026-02-04 09:07:15,780 - INFO - ✅ UCr7qJCgJq1yCfn7buq9LJVw (27 videos)
+2026-02-04 09:07:17,281 - INFO - [164/165] UCPsxH1fpXdLDzcPNqq6rFsg
+2026-02-04 09:07:17,424 - INFO - 🔑 Using API key 2
+2026-02-04 09:07:18,459 - INFO - 💾 Saved 26 records
+2026-02-04 09:07:18,460 - INFO - ✅ UCPsxH1fpXdLDzcPNqq6rFsg (26 videos)
+2026-02-04 09:07:19,961 - INFO - [165/165] UCw55ev6hZQ5zl9kasPdKC9A
+2026-02-04 09:07:20,120 - INFO - 🔑 Using API key 3
+2026-02-04 09:07:21,232 - INFO - 💾 Saved 40 records
+2026-02-04 09:07:21,233 - INFO - ✅ UCw55ev6hZQ5zl9kasPdKC9A (40 videos)
+2026-02-04 09:07:22,733 - INFO - 🎉 Scraping completed!
+2026-02-04 09:07:22,734 - INFO - 📊 Check data: SELECT COUNT(*) FROM recycle_bin.youtube_scraped_data;
