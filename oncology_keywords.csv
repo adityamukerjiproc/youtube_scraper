@@ -1,0 +1,1387 @@
+﻿Generic,Specialised,Abbreviations
+Adenocarcinoma,fluorouracil,ARCC
+anal cancer,nivolumab,IMW
+anal carcinoma,pembrolizumab,AACR
+androgen deprivation therapy,tumor markers,AACRIO25
+auger electron therapy,biomarkers,ACCC
+basal cell carcinoma,circulating tumor cells,ADC
+bile duct cancer,minimal residual disease,ADCC
+biliary tract cancer,5-fluorouracil,ADCs
+bladder cancer,abiraterone,ADORE
+bladder cancer,abiraterone acetate,AK112
+bone cancer,abiraterone and prednisolone,ALK
+bone metastases,abemaciclib,ALL
+bone scan,acalabrutinib,AML
+brain cancer,acquired resistance mechanisms,ASCO
+brain tumor,adenocarcinoma at ge junction,ASCO20
+breast cancer,adoptive cell transfer,ASCO21
+Breast cancer,afatinib,ASCO22
+breast cancer,aldoxorubicin,ASCO23
+breast cancer treatment,alectinib,ASCO25
+breast cancers,alkeran,ASCT
+bridge therapy,alkylating agents,ASTRO
+cancer,allogeneic car-t,AUA
+cancer doctor,alpha particle therapy,AXL
+cancer fatigue,alpelisib,BC
+cancer immunology,american association for cancer research,BCL-2
+cancer metabolism,american cancer society,BCL 2
+cancer prevention,american society of clinical oncology,BCL-XL
+cancer screening,amivantamab,BCL XL
+cancer stem cells,anaplastic astrocytoma,BCMA
+carcinoid tumor,anaplastic lymphoma kinase,BCR-ABL
+carcinoma,anastrozole,BET
+cervical cancer,androgen receptor,BH3
+chemotherapy,aneuploidy,BRAF
+chronic lymphocytic leukemia,angiogenesis,BRCA1
+chronic lymphoid leukemia,angiogenesis inhibitors,BRCA2
+chronic myeloid leukemia,angiosarcoma,BTK
+chronic myelomonocytic leukemia,anti-apoptotic proteins,BiTE
+colorectal cancer,antibody drug conjugates adcs,CAR T
+colorectal cancer,antimetabolites,CAR
+Colorectal Cancer,apoptosis,CAR-M
+colo-rectal cancer,armored car-t,CAR-NK
+damp release,astrocytoma,CAR-T
+deep learning pathology,atezolizumab,CAR-Treg
+diffuse type gastric cancer,auristatin derivatives,CB/CC
+diffuse-type gastric cancer,aurora kinase inhibitor,CC-92480
+digital biomarkers,avelumab,CCR4
+Esophageal Cancer,axitinib,CD123
+eye cancer,axl receptor,CD19
+fallopian tube cancer,base editing car-t,CD20
+fluorescence guided surgery,bcell lymphoma 2,CD22
+follicular lymphoma,bcr-abl,CD25
+gall bladder cancer,belzutifan,CD26
+gastric cancer,bendamustine,CD30
+Gastric Cancer,beta particle therapy,CD33
+Gastric Cancers,bevacizumab,CD38
+Gastric/GEJ Cancers,bh3 mimetics,CD47
+Gastroesophageal Cancer,bintrafusp alfa,CD70
+gastroesophageal junction cancer,bispecific antibodies,CD8
+gastrointestinal stromal tumor,bispecific t cell engagers,CDC
+gene therapy,blinatumab,CDK
+Genitourinary Cancer,bortezomib,CDK4
+genomic testing,braftovi,CDK4/6
+germ cell tumor,brca1,CDK6
+gynecologic oncology,brca2,CELMoD
+gynecologic oncology,brachytherapy,CELMoDs
+hairy cell leukemia,brigatinib,CHC
+head and neck squamous cell carcinoma,bromodomain inhibitors,CHRYSALIS-2
+hematology oncology,bypass pathways,CHRYSALIS2
+hepatocellular carcinoma,bystander effect,CHRYSALIS 2
+hypofractionated radiotherapy,cabazitaxel,CLDN18.2
+inflammatory breast cancer,cabozantinib,CLL
+interferon,cadonilimab,CML
+intrathecal therapy,calicheamicin,CN201
+intrinsic resistance,calquence,CNS
+invasive ductal carcinoma,calreticulin exposure,COMy
+invasive lobular carcinoma,cancer associated anemia,CR
+kidney cancer,cancer cachexia,CRC
+Kidney Cancer,cancer fatigue,CRPC
+kidney cancer,cancer immunology,CRS
+kidney cancer,cancer metabolism,CS1
+liquid biopsy,cancer stem cells,CSCs
+liquid biopsy,capecitabine,CTCs
+liver cancer,car-nk cells,CTLA-4
+lower esophageal carcinoma,car-m cells,CTX-009
+lung cancer,car-t cell therapy,CXCR4
+lung cancer,car-t manufacturing,ColoAd1
+male breast cancer,carboplatin,DAMP
+metastasis,carcinogenesis,DFCI
+metastatic,carcinoid syndrome,DIPG
+minimally invasive surgery,carcinomatosis,DNA
+mr-guided radiotherapy,cardio-oncology,DNMT
+Multiple Myeloma,catumaxomab,DS-1062
+Myeloma,ceritinib,DS-6000
+neoadjuvant therapy,cereblon modulator,DS6000
+neoplasm,cetuximab,DX
+neuroendocrine tumor,checkpoint inhibitor,DXd
+nodular lymphoma,chemotherapy induced neuropathy,Dato-DXd
+Oncology,cholangiocarcinoma,E3
+oral cancer,chordoma,EBMT
+ovarian cancer,chromatin remodeling,ECO
+pancreatic and peritoneal cancer,chromothripsis,ECOG
+pancreatic cancer,chromosomal instability,EGF
+pancreatic cancers,cisplatin,EGFR
+papillary thyroid cancer,cleavable linkers,EHA
+pediatric oncology,clinical decision support,ELCC
+pituitary tumor,cloud-based platforms,EMT
+pleural mesothelioma,claudin 18.2,EONS
+precision dosing,conditionally active car-t,ERBB2
+precision medicine,conditional immune cell engagers,ESCC
+precision oncology,crizotinib,ESGO
+precision oncology,crossover resistance,ESMO
+primary central nervous system lymphoma,cytokine release syndrome,ESMO21
+primary peritoneal cancer,cyclophosphamide,ESO
+prostate cancer,cytoxan,EZH2
+proton therapy,dabrafenib,EnAd
+pulmonary neuroendocrine tumor,darovasertib,FAM
+radiation oncology,datopotamab deruxtecan,FCRH5
+radiopharmaceuticals,datroway,FDA
+radiotherapy,placebo plus chemotherapy,FLT-3
+rare cancer,pembrolizumab plus chemotherapy,FLT3
+real-time tissue analysis,divarasib,FMS
+rectal cancer,dnmt inhibitors,FOWARC
+Relapsed Myeloma,docetaxel,FRA
+renal cell carcinoma,dordaviprone,G12C
+resistance,doxorubicin,G12D
+robotic surgery oncology,ductal carcinoma in situ,G13C
+salvage therapy,dual car-t,GAS6
+sarcoma,dual targeting antibodies,GCPT
+second-line therapy,duocarmycin,GCT
+selective internal radiation,durvalumab,GE
+sequential therapy,dxd payload,GEJ
+signet ring cell carcinoma,e3 ligase modulator,GI
+single cell sequencing,efflux pumps,GIST
+single port surgery,elotuzumab,GPRC5D
+skin cancer,emrelis,GU
+small lymphocytic lymphoma,enhertu,GVT
+soft tissue sarcoma,enzymatically cleavable,H3K27
+solid tumor,enzalutamide,H3K27M
+splenic lymphoma,ependymoma,H3K4
+squamous cell carcinoma,epcoritamab,HER-2
+stem cell transplant,epigenetic therapy,HER2
+stereotactic radiation,epigenetics,HER2-CLIMB
+surgical oncology,erlotinib,HER2CLIMB
+targeted therapy,estrogen receptor,HLH
+telemedicine oncology,etoposide,HMAs
+testicular cancer,european society for medical oncology,HRD
+thyroid cancer,everolimus,HSPC
+tumor,fam-trastuzumab deruxtecan,IBC
+urothelial cancer,fam-trastuzumab deruxtecan t-dxd,ICANS
+urothelial carcinoma,fatty acid synthesis,ICFBC
+vaginal cancer,fcrh5,ICOS
+viral immunotherapy,ferroptosis,IGF-1R
+vulvar cancer,fibrosarcoma,IL3RA
+,flt3 inhibitor,IME
+,dabrafenib mesylate,FGF
+,renal cell carcinoma,FGFR
+,daratumumab,FISH
+,entrectinib,HDAC
+,flotetuzumab,IMS
+,fluorouracil combinations,IMiDs
+,folate receptor alpha,IPI-549
+,fragmentomics,JAK
+,fulvestrant,JAK-STAT
+,gamma delta car-t,JAK2
+,gamma knife,JNJ-61186372
+,gas6 protein s,KCA
+,gefitinib,KIF18A
+,gemcitabine,KN046
+,genomic instability,KRAS
+,glioblastoma,LAG-3
+,glioblastoma multiforme,LIBRETTO-431
+,glofitamab,LIBRETTO431
+,glucose transporter 1,M2
+,glutaminase inhibitors,MAPK
+,glutathione sensitive,MARIPOSA
+,glycolysis inhibitors,MARIPOSA-2
+,gprc5d,MARIPOSA2
+,h3k27 methylation,MAS
+,h3k4 methylation,MASCC
+,hairy cell leukemia variant,MCED
+,hepatoma,MCL
+,hereditary cancer syndrome,MCL1
+,hexokinase,MDM2
+,histone deacetylase inhibitors,MDS
+,histone modifications,MDSCs
+,homologous recombination deficiency,MEK
+,hormone receptor positive,MER
+,hyperthermia,MET
+,hypomethylating agents,MGD009
+,ibtrozi,MGD013
+,ibritumomab,MM
+,icos agonists,MMPs
+,idelalisib,MMR
+,imatinib,MOASC
+,ime degraders,MRD
+,immune effector cell associated neurotoxicity syndrome,MSI
+,immune infiltration score,MTD
+,immune priming,NAM
+,immune stimulating payloads,NCCN
+,immunogenic cell death,NSCLC
+,immunohistochemistry,ONS
+,immunooncology,OSU
+,immunosuppressive microenvironment,OSUCCC
+,immunosuppressive tumor microenvironment,OX40
+,imbruvica,PAPILLON
+,induced pluripotent stem cell car-t,PARP
+,inlyta,PBDs
+,ipi-549,PC
+,ipilimumab,PD
+,irinotecan,PD-1
+,ivonescimab,PD-L1
+,jakafi,PDL1
+,jnj-61186372,PET
+,kalydeco,PETACC-6
+,keytruda,PETACC6
+,kif18a,PI3K
+,kn046,PIK3CA
+,lactate dehydrogenase,PROTAC
+,lag-3,PSA
+,lapatinib,PSMA
+,larotrectinib,RAD-1901
+,laundic acid,RAD1901
+,lenalidomide,RCC
+,lenvatinib,RET
+,letrozole,RIC
+,letrozole for ovulation induction,RLT
+,leukemia stem cells,RNA
+,linvoseltamab,ROR1
+,linvoseltamab gcpt,ROR2
+,liposarcoma,ROS1
+,lobular carcinoma in situ,RRMM
+,logic gated car-t,SABCS
+,lorlatinib,SBRT
+,lumakras,SCLC
+,luminal a,SERD
+,luminal b,SHR-1701
+,lutetium-177,SIOG
+,lymphatic mapping,SIRPA
+,lynozyfic,SLAM7
+,lynparza,SOBO
+,mammography,SOS
+,marginal zone lymphoma mzl,SWOG
+,maytansine derivatives,T-DXd
+,mcl1 inhibitor,TAMs
+,mced tests,TCR
+,mdm2 ligase,TCR-T
+,medulloepithelioma,TCR T
+,melanoma vaccine,TIGIT
+,mer receptor,TIL
+,metabolic reprogramming,TILs
+,metabolomics,TIM-3
+,metastatic escc,TKIs
+,mgd009,TLS
+,mgd013,TMB
+,microsatellite instability,TNBC
+,microsatellite stable,TNM
+,minimal residual disease,TP53
+,mitochondrial metabolism,TRAC
+,mitomycin,TRK
+,mitomycin sustained release,TROP-2
+,mitoxantrone,TROP2
+,model informed drug development,TYRO3
+,molecular glues,VEGF
+,molecular imaging surgery,VEGFR
+,molecular profiling,VEGFR-2
+,molecular subtype,VHL
+,mosunetuzumab,VISTA
+,mrna cancer vaccines,VLS-1488
+,multi-cancer early detection,VOD
+,multi-drug resistance,ctDNA
+,multiple myeloma oncogene 1,mCRC
+,multispecific antibodies,mCRPC
+,mutational burden,mHSPC
+,myelodysplastic neoplasms,mTOR
+,myelodysplastic syndrome,ABVD
+,myelofibrosis,ABVE
+,myeloid derived suppressor cells mdscs,ABVE-PC
+,national cancer institute,BEACOPP
+,national comprehensive cancer network,BEP
+,nectin-4,CAF
+,necroptosis,CAPOX
+,neoantigen load,CEM
+,neoantigen vaccines,CEV
+,neratinib,CMF
+,neuroblastoma,COPDAC
+,neurofibromatosis,COPP
+,next generation adcs,COPP-ABV
+,next generation car-t,CVP
+,niraparib,FEC
+,niraparib and abiraterone,FOLFIRINOX
+,nivolumab,FOLFOX
+,nivolumab and ipilimumab,FU-LV
+,nivolumab and relatlimab,JEB
+,non-cleavable linkers,MOPP
+,off-the-shelf car-t,MVAC
+,odronextamab,OEPA
+,olaparib,OPPA
+,oligodendroglioma,PCV
+,oncolytic virus,PEB
+,oncolytic viruses,R-CHOP
+,oncotype dx,R-CVP
+,opdivo,R-EPOCH
+,orphan drug,XELIRI
+,osimertinib,XELOX
+,osteosarcoma,GEP-NET
+,ox40 agonists,mCRC
+,oxidative phosphorylation,CRC
+,oxaliplatin,MSI-H
+,paclitaxel,dMMR CRC
+,paclitaxel and encequidar,RCC
+,paclitaxel poliglumex,aRCC
+,palbociclib,ccRCC
+,panitumumab,mRCC
+,paraganglioma,nccRCC
+,pazopanib,XB628
+,pbds,XB010
+,pembrolizumab,ADU-1805
+,pemigatinib,XL309
+,peptide vaccines,
+,personalized cancer vaccines,
+,pertuzumab,
+,pertuzumab and trastuzumab,
+,pharmacokinetic modeling,
+,pheochromocytoma,
+,philadelphia chromosome,
+,pituitary adenoma,
+,pivekimab sunirine,
+,platelet-derived growth factor receptor,
+,point-of-care car-t,
+,pomalidomide,
+,population pharmacokinetics,
+,pro-apoptotic proteins,
+,probody car-t,
+,prognosis prediction,
+,progesterone receptor,
+,prostate specific antigen,
+,proteasome inhibitor,
+,protein degradation therapy,
+,proteolysis targeting chimera,
+,proteolytically cleavable,
+,proteomics profiling,
+,pyroptosis,
+,pyrrolobenzodiazepine pbds,
+,pyruvate kinase m2,
+,quantitative systems pharmacology,
+,radio-darpin,
+,radioemibolization,
+,radiogenomics,
+,refractory,
+,regulatory t cells tregs,
+,resistance mutations,
+,rhabdomyosarcoma,
+,rituximab,
+,ror1,
+,ror2,
+,rucaparib,
+,sacituzumab govitecan,
+,sbrt,
+,sentinel lymph node,
+,shr-1701,
+,siglec-15,
+,sir-spheres,
+,site specific conjugation,
+,slam7,
+,sorafenib,
+,sotorasib,
+,spatial transcriptomics,
+,stem cell transplantation,
+,subcutaneous nivolumab,
+,subclonal diversity,
+,sunitinib,
+,sunvozertinib,
+,survival analysis,
+,switch car-t,
+,synergistic combinations,
+,synthetic biology car-t,
+,t cell dysfunction,
+,t cell redirecting antibodies,
+,t-dxd,
+,talazoparib,
+,taletrectinib,
+,talimogene laherparepvec,
+,talquetamab,
+,tamoxifen,
+,tancar,
+,targeted protein degradation,
+,taxane,
+,tecentriq,
+,teclistamab,
+,telisotuzumab vedotin,
+,temozolomide,
+,ternary complex formation,
+,thalidomide,
+,therapeutic radioisotope,
+,tigit checkpoint,
+,tim-3 checkpoint,
+,tissue factor,
+,tislelizumab,
+,tislelizumab+chemotherapy,
+,topoisomerase inhibitor,
+,topoisomerase inhibitors,
+,topotecan,
+,trac deletion,
+,trastuzumab,
+,trastuzumab deruxtecan,
+,trastuzumab duocarmazine,
+,trastuzumab emtansine,
+,treatment recommendation,
+,treatment response prediction,
+,trop2,
+,tucatinib,
+,tumor associated macrophages,
+,tumor associated macrophages tams,
+,tumor evolution,
+,tumor heterogeneity,
+,tumor infiltrating lymphocytes,
+,tumor microenvironment,
+,tumor mutational burden,
+,tumor mutational signature,
+,tumor necrosis factor alphainduced protein 3,
+,tumor suppressor gene,
+,tyro3,
+,tyrosine kinase inhibitor,
+,ultra-hypofractionation,
+,undruggable targets,
+,universal car-t,
+,vascular endothelial growth factor,
+,vemurafenib,
+,venclexta,
+,venetoclax,
+,venetoclax resistance,
+,vepdegestrant,
+,vhl ligase,
+,vinblastine,
+,vincristine,
+,vinorelbine,
+,virtual tumor boards,
+,vista,
+,vista checkpoint,
+,vls-1488,
+,votrient,
+,waldenstrom macroglobulinemia,
+,warburg effect,
+,welireg,
+,whole exome sequencing,
+,whole genome sequencing,
+,xeloda,
+,yervoy,
+,yttrium-90,
+,zaltrap,
+,zegfrovy,
+,zelboraf,
+,zongertinib,
+,zusduri,
+,zydelig,
+,zytiga,
+,European Lung Cancer Congress 2025,
+,San Antonio Breast Cancer Symposium,
+,The American Society for Radiation Oncology,
+,The European Cancer Organisation,
+,The European Society for gynaecological oncology,
+,The European Oncology Nursing society,
+,The European School of Oncology,
+,The International Society of Geriatric Oncology,
+,The multinational Association of Supportive care in cancer,
+,solid tumors,
+,enadenotucirev,
+,atezolizumab,
+,gilteritinib,
+,tazemetostat,
+,International Congress on the Future of Breast Cancer,
+,School of Breast Oncology,
+,Canadian Hematology Conference,
+,Dana-Farber Cancer Institute,
+,Cereblon E3 Ligase Modulators,
+,Mezigdomide,
+,European Society for Blood and Marrow Transplantation,
+,International Myeloma Society,
+,Dana Farber Cancer Institute,
+,World Congress on Controversies in Multiple Myeloma,
+,International Myeloma Workshop,
+,Ramucirumab,
+,National Academy of Medicine,
+,Immunotherapy Patient Summit,
+,Ohio State University Comprehensive Cancer Center,
+,Kidney Cancer Association,
+,Medical Oncology Association of Southern California,
+,American Society of Clinical Oncology,
+,Genitourinary Cancers,
+,peritoneal cancers,
+,American Urological Association,
+,genitourinary cancers,
+,Tivozanib,
+,Sorafenib,
+,Elacestrant,
+,Sacituzumab govitecan,
+,Trodelvy,
+,Mastectomy,
+,Immunotherapeutic,
+,urologic cancers,
+,oncogenic,
+,all-trans retinoic acid,
+,bcl-2 family,
+,bcl-2 inhibitor,
+,bcl-xl inhibitor,
+,bet inhibitors,
+,braf inhibitor,
+,braf mutation,
+,bulk rna sequencing,
+,car-treg cells,
+,car-treg therapy,
+,chronic lymphocytic leukemia cll,
+,circulating tumor dna,
+,dipg treatment,
+,dna damage response,
+,dna methylation,
+,dna methyltransferase inhibitors,
+,egfr inhibitor,
+,egfr mutation,
+,egfr tyrosine kinase inhibitor,
+,egfr x met bispecific,
+,hdac inhibitors,
+,her2 negative,
+,her2 positive,
+,her2-targeted therapy,
+,igf-1r,
+,jak inhibitor,
+,kras g12c,
+,kras g12c inhibitors,
+,kras g12d inhibitors,
+,kras g13c inhibitors,
+,kras inhibitor,
+,mantle cell lymphoma mcl,
+,metastatic nsclc,
+,protac,
+,ros1,
+,secondary aml,
+,therapy related aml,
+,til therapy,
+,tumor infiltrating lymphocytes til therapy,
+,vegf inhibitor,
+,The SWOG cancer research network,
+,Annual ONS Congress,
+,acute myeloid leukemia,
+,acute megakaryoblastic leukemia,
+,acute promyelocytic leukemia,
+,adaptive radiotherapy,
+,adenocarcinoma,
+,adenoid cystic carcinoma,
+,adrenal cancer,
+,adrenocortical carcinoma,
+,ampullary adenocarcinoma,
+,anaplastic thyroid cancer,
+,atypical chronic myeloid leukemia,
+,b cell prolymphocytic leukemia,
+,b-cell lymphoma,
+,car-m therapy,
+,car-nk therapy,
+,metastatic castration-resistant prostate cancer,
+,metastatic hormone-sensitive prostate cancer,
+,tislelizumab plus chemotherapy,
+,tislelizumab v/s chemotherapy,
+,tislelizumab versus chemotherapy,
+,triple negative breast cancer,
+,upper esophageal carcinoma,
+,leukaemic nonnodal mantle cell lymphoma,
+,synovial sarcoma,
+,t-cell lymphoma,
+,tcell prolymphocytic leukemia,
+,tcr-t therapy,
+,acute lymphoblastic leukemia,
+,burkitt lymphoma,
+,desmoplastic small round cell tumor,
+,esophageal squamous cell carcinoma,
+,extranodal marginal zone lymphoma,
+,marginal zone bcell lymphoma,
+,metastatic castration resistant prostate cancer,
+,metastatic esophageal squamous cell carcinoma,
+,pancreatic ductal adenocarcinoma,
+,pancreatic neuroendocrine tumor,
+,anti-angiogenic therapy,
+,bone marrow biopsy,
+,bone marrow transplant,
+,castration resistant prostate cancer,
+,diffuse large b cell lymphoma,
+,epithelial ovarian cancer,
+,esophageal adenocarcinoma,
+,esophageal cancer,
+,ewing sarcoma,
+,extensive-stage small cell lung cancer,
+,follicular large cell lymphoma,
+,glioblastoma immunotherapy,
+,glioma,
+,h3k27m mutant glioma,
+,hodgkin lymphoma,
+,hurthle cell cancer,
+,indolent lymphoma,
+,kaposi sarcoma,
+,leukemia,
+,limited-stage small cell lung cancer,
+,lung adenocarcinoma,
+,lung squamous cell carcinoma,
+,lymphoblastic lymphoma,
+,lymphoma,
+,lymphoplasmacytic lymphoma,
+,malignant glioma,
+,malignant melanoma,
+,malignant mesothelioma,
+,malt lymphoma,
+,mantle cell lymphoma,
+,marginal zone lymphoma,
+,medullary thyroid cancer,
+,melanoma,
+,merkel cell carcinoma,
+,mesothelioma,
+,metastatic breast cancer,
+,metastatic colorectal cancer,
+,metastatic melanoma,
+,metastatic pancreatic cancer,
+,metastatic prostate cancer,
+,middle esophageal carcinoma,
+,multiple myeloma,
+,myeloid sarcoma,
+,myeloproliferative neoplasm,
+,nasopharyngeal carcinoma,
+,non-hodgkin lymphoma,
+,non-small cell lung cancer,
+,pancreatic adenocarcinoma,
+,brain metastases,
+,wilms tumor,
+,small cell lung cancer,
+,5-FU,
+,Abecma,
+,Abemaciclib,
+,Abiraterone Acetate,
+,Abraxane,
+,Acalabrutinib Maleate Monohydrate,
+,Acalabrutinib Maleate Monohydrate,
+,Actemra,
+,Adagrasib,
+,Adcetris,
+,Ado-Trastuzumab Emtansine,
+,Adriamycin,
+,Adstiladrin,
+,Afamitresgene Autoleucel,
+,Afatinib Dimaleate,
+,Afinitor,
+,Akeega,
+,Akynzeo,
+,Aldara,
+,Aldesleukin,
+,Alecensa,
+,Alectinib,
+,Alemtuzumab,
+,Alimta,
+,Alkeran for Injection,
+,Alkeran Tablets,
+,Aloxi,
+,Alpelisib,
+,Alunbrig,
+,Alymsys,
+,Ameluz,
+,Amifostine,
+,Aminolevulinic Acid Hydrochloride,
+,Amivantamab-vmjw,
+,Amtagvi,
+,Anastrozole,
+,Anktiva,
+,Apalutamide,
+,Aprepitant,
+,Aranesp,
+,Aredia,
+,Arimidex,
+,Aromasin,
+,Arranon,
+,Arsenic Trioxide,
+,Arzerra,
+,Asciminib Hydrochloride,
+,Asciminib Hydrochloride,
+,Asparaginase Erwinia Chrysanthemi,
+,Asparaginase Erwinia Chrysanthemi [Recombinant]-rywn,
+,Asparaginase Erwinia Chrysanthemi (Recombinant)-rywn,
+,Asparlas,
+,Atezolizumab,
+,Atezolizumab and Hyaluronidase-tqjs,
+,Aucatzyl,
+,Augtyro,
+,Avapritinib,
+,Avastin,
+,Avelumab,
+,Axicabtagene Ciloleucel,
+,Axitinib,
+,Ayvakit,
+,Azacitidine,
+,Azedra,
+,Balversa,
+,Bavencio,
+,Beleodaq,
+,Belinostat,
+,Belzutifan,
+,Bendamustine Hydrochloride,
+,Bendeka,
+,Besponsa,
+,Besremi,
+,Bevacizumab,
+,Bevcizumab,
+,Bexarotene,
+,Bicalutamide,
+,BiCNU,
+,Binimetinib,
+,Bizengri,
+,Bleomycin Sulfate,
+,Blinatumomab,
+,Blincyto,
+,Bortezomib,
+,Bosulif,
+,Bosutinib,
+,Braftovi,
+,Brentuximab Vedotin,
+,Brexucabtagene Autoleucel,
+,Breyanzi,
+,Brigatinib,
+,Brukinsa,
+,BuMel,
+,Busulfan,
+,Busulfex,
+,Cabazitaxel,
+,Cablivi,
+,Cabometyx,
+,Cabozantinib-S-Malate,
+,Calaspargase Pegol-mknl,
+,Calquence,
+,Camcevi,
+,Campath,
+,Camptosar,
+,Capecitabine,
+,Capivasertib,
+,Caplacizumab-yhdp,
+,Capmatinib Hydrochloride,
+,Capmatinib Hydrochloride,
+,Carac,
+,Carboplatin,
+,Carfilzomib,
+,Carmustine,
+,Carmustine Implant,
+,Carvykti,
+,Casodex,
+,Cemiplimab-rwlc,
+,Ceritinib,
+,Cervarix,
+,Cetuximab,
+,Chlorambucil,
+,Ciltacabtagene Autoleucel,
+,Cisplatin,
+,Cladribine,
+,Clofarabine,
+,Clolar,
+,Cobimetinib Fumarate,
+,Cobimetinib Fumarate,
+,Columvi,
+,Cometriq,
+,Copiktra,
+,Cosibelimab-ipdl,
+,Cosmegen,
+,Cotellic,
+,Crizotinib,
+,Cyclophosphamide,
+,Cyramza,
+,Cytarabine,
+,Dabrafenib Mesylate,
+,Dacarbazine,
+,Dacogen,
+,Dacomitinib,
+,Dactinomycin,
+,Danyelza,
+,Daratumumab,
+,Daratumumab and Hyaluronidase-fihj,
+,Darbepoetin Alfa,
+,Darolutamide,
+,Darzalex,
+,Darzalex Faspro,
+,Dasatinib,
+,Datopotamab Deruxtecan-dlnk,
+,Datroway,
+,Daunorubicin Hydrochloride,
+,Daunorubicin Hydrochloride and Cytarabine Liposome,
+,Daurismo,
+,Decitabine,
+,Decitabine and Cedazuridine,
+,Defibrotide Sodium,
+,Defitelio,
+,Degarelix,
+,Denileukin Diftitox-cxdl,
+,Denosumab,
+,Dexamethasone,
+,Dexrazoxane Hydrochloride,
+,Dinutuximab,
+,Docetaxel,
+,Dostarlimab-gxly,
+,Doxil,
+,Doxorubicin Hydrochloride,
+,Doxorubicin Hydrochloride Liposome,
+,Durvalumab,
+,Duvelisib,
+,Eflornithine Hydrochloride,
+,Efudex,
+,Elacestrant Dihydrochloride,
+,Elahere,
+,Eligard,
+,Elitek,
+,Ellence,
+,Elotuzumab,
+,Eloxatin,
+,Elranatamab-bcmm,
+,Elrexfio,
+,Eltrombopag Olamine,
+,Elzonris,
+,Emapalumab-lzsg,
+,Emend,
+,Empliciti,
+,Enasidenib Mesylate,
+,Encorafenib,
+,Enfortumab Vedotin-ejfv,
+,Enhertu,
+,Ensacove,
+,Ensartinib Hydrochloride,
+,Entrectinib,
+,Enzalutamide,
+,Epcoritamab-bysp,
+,Epirubicin Hydrochloride,
+,Epkinly,
+,Epoetin Alfa,
+,Epogen,
+,Erbitux,
+,Erdafitinib,
+,Eribulin Mesylate,
+,Erivedge,
+,Erleada,
+,Erlotinib Hydrochloride,
+,Erwinaze,
+,Ethyol,
+,Etopophos,
+,Etoposide,
+,Etoposide Phosphate,
+,Everolimus,
+,Evista,
+,Evomela,
+,Exemestane,
+,Fam-Trastuzumab Deruxtecan-nxki,
+,Fareston,
+,Faslodex,
+,Fedratinib Hydrochloride,
+,Femara,
+,Filgrastim,
+,Firmagon,
+,Fludarabine Phosphate,
+,Fluoroplex,
+,Fluorouracil Injection,
+,Fluorouracil Topical,
+,Flutamide,
+,Folotyn,
+,Fostamatinib Disodium,
+,Fotivda,
+,Fruquintinib,
+,Fruzaqla,
+,Fulphila,
+,Fulvestrant,
+,Futibatinib,
+,Fyarro,
+,Gamifant,
+,Gardasil,
+,Gardasil 9,
+,Gavreto,
+,Gazyva,
+,Gefitinib,
+,Gemcitabine Hydrochloride,
+,Gemtuzumab Ozogamicin,
+,Gemzar,
+,Gilotrif,
+,Gilteritinib Fumarate,
+,Glasdegib Maleate,
+,Gleevec,
+,Gliadel Wafer,
+,Glofitamab-gxbm,
+,Glucarpidase,
+,Goserelin Acetate,
+,Grafapex,
+,Granisetron,
+,Granisetron Hydrochloride,
+,Granix,
+,Halaven,
+,Hemangeol,
+,Hepzato,
+,Herceptin,
+,Herceptin Hylecta,
+,"HPV Bivalent Vaccine, Recombinant",
+,"HPV Nonavalent Vaccine, Recombinant",
+,"HPV Quadrivalent Vaccine, Recombinant",
+,Hycamtin,
+,Hydrea,
+,Hydroxyurea,
+,Hyper-CVAD,
+,Ibrance,
+,Ibritumomab Tiuxetan,
+,Ibrutinib,
+,Iclusig,
+,Idamycin PFS,
+,Idarubicin Hydrochloride,
+,Idecabtagene Vicleucel,
+,Idelalisib,
+,Idhifa,
+,Ifex,
+,Ifosfamide,
+,IL-2,
+,Imatinib Mesylate,
+,Imbruvica,
+,Imdelltra,
+,Imetelstat Sodium,
+,Imfinzi,
+,Imiquimod,
+,Imjudo,
+,Imkeldi,
+,Imlygic,
+,Inavolisib,
+,Infugem,
+,Inlyta,
+,Inotuzumab Ozogamicin,
+,Inqovi,
+,Inrebic,
+,"Interferon Alfa-2b, Recombinant",
+,Interleukin-2,
+,Intron A,
+,Iobenguane I 131,
+,Ipilimumab,
+,Iressa,
+,Irinotecan Hydrochloride,
+,Irinotecan Sucrosofate,
+,Isatuximab-irfc,
+,Istodax,
+,Itovebi,
+,Ivosidenib,
+,Iwilfin,
+,Ixabepilone,
+,Ixazomib Citrate,
+,Ixempra,
+,Jakafi,
+,Jaypirca,
+,Jelmyto,
+,Jemperli,
+,Jevtana,
+,Kadcyla,
+,Kepivance,
+,Keytruda,
+,Kimmtrak,
+,Kisqali,
+,Kisqali Femara Co-Pack,
+,Koselugo,
+,Krazati,
+,Kymriah,
+,Kyprolis,
+,Lanreotide Acetate,
+,Lapatinib Ditosylate,
+,Larotrectinib Sulfate,
+,Lazcluze,
+,Lazertinib Mesylate Hydrate,
+,Lenalidomide,
+,Lenvatinib Mesylate,
+,Lenvima,
+,Letrozole,
+,Leucovorin Calcium,
+,Leukeran,
+,Leuprolide Acetate,
+,Leuprolide Mesylate,
+,Levulan Kerastick,
+,Libtayo,
+,Lifileucel,
+,Lisocabtagene Maraleucel,
+,Lomustine,
+,Loncastuximab Tesirine-lpyl,
+,Lonsurf,
+,Loqtorzi,
+,Lorbrena,
+,Lorlatinib,
+,Lu 177-Dotatate,
+,Lumakras,
+,Lunsumio,
+,Lupron Depot,
+,Lurbinectedin,
+,Luspatercept-aamt,
+,Lutathera,
+,Lutetium,
+,Lutetium Lu 177 Vipivotide Tetraxetan,
+,Lutetium Lu 177-Dotatate,
+,Lymphir,
+,Lynparza,
+,Lytgobi,
+,Margenza,
+,Margetuximab-cmkb,
+,Matulane,
+,Mechlorethamine Hydrochloride,
+,Megestrol Acetate,
+,Mekinist,
+,Mektovi,
+,Melphalan,
+,Melphalan Hydrochloride,
+,Mercaptopurine,
+,Mesna,
+,Mesnex,
+,Methotrexate Sodium,
+,Methotrexate Sodium,
+,Methylnaltrexone Bromide,
+,Midostaurin,
+,Mirvetuximab Soravtansine-gynx,
+,Mitomycin,
+,Mitoxantrone Hydrochloride,
+,Mogamulizumab-kpkc,
+,Momelotinib Dihydrochloride Monohydrate,
+,Monjuvi,
+,Mosunetuzumab-axgb,
+,Mozobil,
+,Mvasi,
+,Myleran,
+,Mylotarg,
+,Nadofaragene Firadenovec-vncg,
+,Nanoparticle Paclitaxel,
+,Naxitamab-gqgk,
+,Necitumumab,
+,Nelarabine,
+,Neratinib Maleate,
+,Nerlynx,
+,Netupitant and Palonosetron Hydrochloride,
+,Neulasta,
+,Neupogen,
+,Nexavar,
+,Nilandron,
+,Nilotinib,
+,Nilutamide,
+,Ninlaro,
+,Niraparib Tosylate Monohydrate,
+,Niraparib Tosylate Monohydrate and Abiraterone Acetate,
+,Nirogacestat Hydrobromide,
+,Nivestym,
+,Nivolumab,
+,Nivolumab and Hyaluronidase-nvhy,
+,Nivolumab and Relatlimab-rmbw,
+,Nogapendekin Alfa Inbakicept-pmln,
+,Nplate,
+,Nubeqa,
+,Nyvepria,
+,Obecabtagene Autoleucel,
+,Obinutuzumab,
+,Odomzo,
+,Ofatumumab,
+,Ogsiveo,
+,Ojemda,
+,Ojjaara,
+,Olaparib,
+,Olutasidenib,
+,Omacetaxine Mepesuccinate,
+,Oncaspar,
+,Ondansetron Hydrochloride,
+,Onivyde,
+,Onureg,
+,Opdivo,
+,Opdivo Qvantig,
+,Opdualag,
+,Orgovyx,
+,Orserdu,
+,Osimertinib Mesylate,
+,Oxaliplatin,
+,Paclitaxel,
+,Paclitaxel Albumin-stabilized Nanoparticle Formulation,
+,Pacritinib Citrate,
+,Padcev,
+,Palbociclib,
+,Palifermin,
+,Palonosetron Hydrochloride,
+,Palonosetron Hydrochloride and Netupitant,
+,Pamidronate Disodium,
+,Panitumumab,
+,Paraplatin,
+,Pazopanib Hydrochloride,
+,Pegaspargase,
+,Pegfilgrastim,
+,Pemazyre,
+,Pembrolizumab,
+,Pemetrexed Disodium,
+,Pemigatinib,
+,Penpulimab-kcqx,
+,Perjeta,
+,Pertuzumab,
+,"Pertuzumab, Trastuzumab, and Hyaluronidase-zzxf",
+,Pexidartinib Hydrochloride,
+,Phesgo,
+,Piqray,
+,Pirtobrutinib,
+,Plerixafor,
+,Pluvicto,
+,Polatuzumab Vedotin-piiq,
+,Polivy,
+,Pomalidomide,
+,Pomalyst,
+,Ponatinib Hydrochloride,
+,Portrazza,
+,Poteligeo,
+,Pralatrexate,
+,Pralsetinib,
+,Prednisone,
+,Procarbazine Hydrochloride,
+,Procrit,
+,Proleukin,
+,Prolia,
+,Promacta,
+,Propranolol Hydrochloride,
+,Provenge,
+,Purinethol,
+,Purixan,
+,Qinlock,
+,Quizartinib Dihydrochloride,
+,Radium 223 Dichloride,
+,Raloxifene Hydrochloride,
+,Ramucirumab,
+,Rasburicase,
+,Ravulizumab-cwvz,
+,Reblozyl,
+,Recombinant HPV Bivalent Vaccine,
+,Recombinant HPV Nonavalent Vaccine,
+,Recombinant HPV Quadrivalent Vaccine,
+,Recombinant Human Papillomavirus (HPV) Bivalent Vaccine,
+,Recombinant Human Papillomavirus (HPV) Nonavalent Vaccine,
+,Recombinant Human Papillomavirus (HPV) Quadrivalent Vaccine,
+,Recombinant Interferon Alfa-2b,
+,Regorafenib,
+,Relistor,
+,Relugolix,
+,Repotrectinib,
+,Retacrit,
+,Retevmo,
+,Retifanlimab-dlwr,
+,Revlimid,
+,Revuforj,
+,Revumenib Citrate,
+,Rezlidhia,
+,Riabni,
+,Ribociclib Succinate,
+,Ribociclib Succinate and Letrozole,
+,Ribociclib Succinate,
+,Ripretinib,
+,Rituxan,
+,Rituxan Hycela,
+,Rituximab,
+,Rituximab and Hyaluronidase Human,
+,Rolapitant Hydrochloride,
+,Romidepsin,
+,Romiplostim,
+,Romvimza,
+,Ropeginterferon Alfa-2b-njft,
+,Rozlytrek,
+,Rubraca,
+,Rucaparib Camsylate,
+,Ruxience,
+,Ruxolitinib Phosphate,
+,Rybrevant,
+,Rydapt,
+,Rylaze,
+,Rytelo,
+,Sacituzumab Govitecan-hziy,
+,Sancuso,
+,Sarclisa,
+,Scemblix,
+,Sclerosol Intrapleural Aerosol,
+,Selinexor,
+,Selpercatinib,
+,Selumetinib Sulfate,
+,Siltuximab,
+,Sipuleucel-T,
+,Sipuleucel T,
+,Sirolimus Protein-Bound Particles,
+,Soltamox,
+,Somatuline Depot,
+,Sonidegib,
+,Sorafenib Tosylate,
+,Sotorasib,
+,Sprycel,
+,Sterile Talc Powder,
+,Steritalc,
+,Stivarga,
+,Sunitinib Malate,
+,Sustol,
+,Sutent,
+,Sylvant,
+,Synribo,
+,Tabloid,
+,Tabrecta,
+,Tafasitamab-cxix,
+,Tafinlar,
+,Tagraxofusp-erzs,
+,Tagrisso,
+,Talazoparib Tosylate,
+,Talc,
+,Talimogene Laherparepvec,
+,Talquetamab-tgvs,
+,Talvey,
+,Talzenna,
+,Tamoxifen Citrate,
+,Tarceva,
+,Targretin,
+,Tarlatamab-dlle,
+,Tasigna,
+,Tavalisse,
+,Taxotere,
+,Tazemetostat Hydrobromide,
+,Tazverik,
+,Tebentafusp-tebn,
+,Tebentafusp tebn,
+,Tecartus,
+,Tecelra,
+,Tecentriq,
+,Tecentriq Hybreza,
+,Teclistamab-cqyv,
+,Teclistamab cqyv,
+,Tecvayli,
+,Temodar,
+,Temozolomide,
+,Temsirolimus,
+,Tepadina,
+,Tepmetko,
+,Tepotinib Hydrochloride,
+,Tevimbra,
+,Thalidomide,
+,Thalomid,
+,Thioguanine,
+,Thiotepa,
+,Tibsovo,
+,Tisagenlecleucel,
+,Tislelizumab-jsgr,
+,Tisotumab Vedotin-tftv,
+,Tivdak,
+,Tivozanib Hydrochloride,
+,Tocilizumab,
+,Tolak,
+,Topotecan Hydrochloride,
+,Toremifene,
+,Toripalimab-tpzi,
+,Torisel,
+,Totect,
+,Tovorafenib,
+,Trabectedin,
+,Trametinib Dimethyl Sulfoxide,
+,Trametinib Dimethyl Sulfoxide,
+,Trastuzumab,
+,Trastuzumab and Hyaluronidase-oysk,
+,Treanda,
+,Trelstar,
+,Trelstar Depot,
+,Tremelimumab-actl,
+,Treosulfan,
+,Trexall,
+,Trifluridine and Tipiracil Hydrochloride,
+,Triptorelin Pamoate,
+,Trisenox,
+,Trodelvy,
+,Truqap,
+,Truxima,
+,Tucatinib,
+,Tukysa,
+,Turalio,
+,Tykerb,
+,Ultomiris,
+,Undencyca,
+,Unituxin,
+,Unloxcyt,
+,Uridine Triacetate,
+,Valrubicin,
+,Valstar,
+,Vandetanib,
+,Vanflyta,
+,Varubi,
+,Vectibix,
+,VeIP,
+,Velcade,
+,Vemurafenib,
+,Venclexta,
+,Venetoclax,
+,Verzenio,
+,Vidaza,
+,Vimseltinib Dihydrate,
+,Vinblastine Sulfate,
+,Vincristine Sulfate,
+,Vinorelbine Tartrate,
+,Vismodegib,
+,Vistogard,
+,Vitrakvi,
+,Vizimpro,
+,Vonjo,
+,Voranigo,
+,Vorasidenib Citrate,
+,Voraxaze,
+,Vorinostat,
+,Votrient,
+,Vyloy,
+,Vyxeos,
+,Welireg,
+,Xalkori,
+,Xatmep,
+,Xeloda,
+,Xgeva,
+,Xofigo,
+,Xospata,
+,Xpovio,
+,Xtandi,
+,Yervoy,
+,Yescarta,
+,Yondelis,
+,Yonsa,
+,Zaltrap,
+,Zanidatamab-hrii,
+,Zanubrutinib,
+,Zarxio,
+,Zejula,
+,Zelboraf,
+,Zenocutuzumab-zbco,
+,Zepzelca,
+,Zevalin,
+,Ziextenzo,
+,Ziihera,
+,Zinecard,
+,Zirabev,
+,Ziv-Aflibercept,
+,Zofran,
+,Zoladex,
+,Zolbetuximab-clzb,
+,Zoledronic Acid,
+,Zolinza,
+,Zometa,
+,Zyclara,
+,Zydelig,
+,Zykadia,
+,Zynlonta,
+,Zynyz,
+,Zytiga,
+,Metastatic Gastroenteropancreatic Neuroendocrine Tumors,
+,Neuroendocrine Tumors,
+,Metastatic Colorectal Cancer,
+,Colorectal Cancer,
+,Carcinoma Colorectal,
+,Post-Colonoscopy Colorectal Cancer ,
+,Colorectal Carcinoma ,
+,Colo-rectal Cancer ,
+,Colorectal Cancers ,
+,Colon Rectal Cancer ,
+,Colorectal Carcinomas ,
+,Colorectal Neoplasm ,
+,MSI-H/dMMR Colorectal Cancer ,
+,Adenocarcinoma Renal ,
+,Advanced Renal Cell Carcinoma ,
+,Clear Cell Renal Cell Carcinoma ,
+,Clear-Cell-Renal-Cell Carcinoma ,
+,Metastatic Renal Cell Carcinoma ,
+,Renal Cell Carcinoma ,
+,Renal Cancers ,
+,Renal Carcinoma ,
+,Renal Cell Adenocarcinoma ,
+,Renal Cell Cancer ,
+,Renal Cell Carcinomas ,
+,Renal Clear Cell Carcinoma ,
+,Renal Malignant Tumor ,
+,Non-Clear Cell Renal Cell Carcinoma ,
+,Zanzalintinib,
+,belzutifan,
+,Pamiparib,
+,TOURMALINE-MM1,
+,TOURMALINE MM1,
+,CARBOPLATIN-TAXOL,
+,CARBOPLATIN TAXOL,
+,CHLORAMBUCIL-PREDNISONE,
+,CHLORAMBUCIL PREDNISONE,
+,FOLFIRI,
+,FOLFIRI BEVACIZUMAB,
+,FOLFIRI-BEVACIZUMAB,
+,FOLFIRI-CETUXIMAB,
+,FOLFIRI CETUXIMAB,
+,GEMCITABINE-CISPLATIN,
+,GEMCITABINE CISPLATIN,
+,GEMCITABINE-OXALIPLATIN,
+,GEMCITABINE OXALIPLATIN,
