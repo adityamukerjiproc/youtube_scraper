@@ -28,7 +28,7 @@ API_KEYS = [os.getenv(f'YOUTUBE_API_KEY_{i}') for i in range(1, 10)]
 API_KEYS = [k.strip() for k in API_KEYS if k and k.strip()]
 
 # Now this file is expected to contain channel IDs, not handles
-INPUT_FILE = "Channel_name_23012026.csv"
+INPUT_FILE = "input_channel_ids.csv"
 CHECKPOINT_FILE = "youtube_checkpoint_db.json"
 BATCH_SIZE = 10
 RATE_LIMIT_RETRY_DELAY = 60
