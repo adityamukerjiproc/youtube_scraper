@@ -1,0 +1,8 @@
+2026-02-17 17:49:20,410 - INFO - 🚀 YouTube scraper started
+2026-02-17 17:49:20,418 - INFO - 📁 Log file: logs\scraper_20260217_174920.log
+2026-02-17 17:49:20,448 - INFO - 🔑 Loaded 9 API keys
+2026-02-17 17:49:22,922 - INFO - ✅ DB check complete, table ready
+2026-02-17 17:49:22,923 - INFO - ✅ Initialized. Resume from row 73
+2026-02-17 17:49:22,931 - INFO - 🚀 Starting from row 73/17
+2026-02-17 17:49:22,961 - INFO - 🎉 Scraping completed!
+2026-02-17 17:49:22,965 - INFO - 📊 Check data: SELECT COUNT(*) FROM recycle_bin.youtube_scraped_data;

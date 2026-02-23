@@ -1,0 +1,312 @@
+2026-02-10 13:06:31,495 - INFO - 🚀 YouTube scraper started
+2026-02-10 13:06:31,495 - INFO - 📁 Log file: logs\scraper_20260210_130631.log
+2026-02-10 13:06:31,501 - INFO - 🔑 Loaded 9 API keys
+2026-02-10 13:06:33,850 - INFO - ✅ DB check complete, table ready
+2026-02-10 13:06:33,852 - INFO - ✅ Initialized. Resume from row 0
+2026-02-10 13:06:33,862 - INFO - 🚀 Starting from row 0/73
+2026-02-10 13:06:33,862 - INFO - [1/73] UCIo7-FOO82eVyeKV47ujfMw
+2026-02-10 13:06:36,930 - INFO - 🔑 Using API key 1
+2026-02-10 13:06:42,643 - ERROR - Error fetching videos: <HttpError 404 when requesting https://youtube.googleapis.com/youtube/v3/playlistItems?part=snippet%2CcontentDetails&playlistId=UUIo7-FOO82eVyeKV47ujfMw&maxResults=50&key=AIzaSyC6EgEOuF0KkyI-h4aIdycR94qsSkNckJ0&alt=json returned "The playlist identified with the request's <code>playlistId</code> parameter cannot be found.". Details: "[{'message': "The playlist identified with the request's <code>playlistId</code> parameter cannot be found.", 'domain': 'youtube.playlistItem', 'reason': 'playlistNotFound', 'location': 'playlistId', 'locationType': 'parameter'}]">
+2026-02-10 13:06:42,645 - INFO - No videos for UCIo7-FOO82eVyeKV47ujfMw
+2026-02-10 13:06:44,148 - INFO - [2/73] UC5UxaYW937ezDOx2MeN6K2w
+2026-02-10 13:06:46,821 - INFO - 🔑 Using API key 2
+2026-02-10 13:06:51,561 - ERROR - Error fetching videos: <HttpError 404 when requesting https://youtube.googleapis.com/youtube/v3/playlistItems?part=snippet%2CcontentDetails&playlistId=UU5UxaYW937ezDOx2MeN6K2w&maxResults=50&key=AIzaSyCPY5EHlO8qpbOkWufklO_udfHYN5jrKd8&alt=json returned "The playlist identified with the request's <code>playlistId</code> parameter cannot be found.". Details: "[{'message': "The playlist identified with the request's <code>playlistId</code> parameter cannot be found.", 'domain': 'youtube.playlistItem', 'reason': 'playlistNotFound', 'location': 'playlistId', 'locationType': 'parameter'}]">
+2026-02-10 13:06:51,562 - INFO - No videos for UC5UxaYW937ezDOx2MeN6K2w
+2026-02-10 13:06:53,070 - INFO - [3/73] UC41SJI79yjZIe96OajzN22g
+2026-02-10 13:06:55,582 - INFO - 🔑 Using API key 3
+2026-02-10 13:07:36,541 - INFO - 💾 Saved 913 records
+2026-02-10 13:07:36,546 - INFO - ✅ UC41SJI79yjZIe96OajzN22g (913 videos)
+2026-02-10 13:07:38,051 - INFO - [4/73] UCZNTp0YNjDkZfRwsGPXjOEA
+2026-02-10 13:07:41,103 - INFO - 🔑 Using API key 4
+2026-02-10 13:07:49,326 - INFO - 💾 Saved 44 records
+2026-02-10 13:07:49,326 - INFO - ✅ UCZNTp0YNjDkZfRwsGPXjOEA (44 videos)
+2026-02-10 13:07:50,832 - INFO - [5/73] UCwK46TUWG2toAQ0FtaFcpHw
+2026-02-10 13:07:54,151 - INFO - 🔑 Using API key 5
+2026-02-10 13:08:08,995 - INFO - 💾 Saved 170 records
+2026-02-10 13:08:09,008 - INFO - ✅ UCwK46TUWG2toAQ0FtaFcpHw (170 videos)
+2026-02-10 13:08:10,515 - INFO - [6/73] UCR2JbU5mH4dULxH2VJirpGA
+2026-02-10 13:08:14,022 - INFO - 🔑 Using API key 6
+2026-02-10 13:09:41,177 - INFO - 💾 Saved 2168 records
+2026-02-10 13:09:41,180 - INFO - ✅ UCR2JbU5mH4dULxH2VJirpGA (2168 videos)
+2026-02-10 13:09:42,688 - INFO - [7/73] UCZRLVZGCUZWYUEj2XQlFPyQ
+2026-02-10 13:09:45,421 - INFO - 🔑 Using API key 7
+2026-02-10 13:10:36,176 - INFO - 💾 Saved 1094 records
+2026-02-10 13:10:36,177 - INFO - ✅ UCZRLVZGCUZWYUEj2XQlFPyQ (1094 videos)
+2026-02-10 13:10:37,683 - INFO - [8/73] UCDv1r2CZ6HiDn8cqHcwUY_A
+2026-02-10 13:10:40,647 - INFO - 🔑 Using API key 8
+2026-02-10 13:11:01,526 - INFO - 💾 Saved 363 records
+2026-02-10 13:11:01,536 - INFO - ✅ UCDv1r2CZ6HiDn8cqHcwUY_A (363 videos)
+2026-02-10 13:11:03,047 - INFO - [9/73] UC8KRpZbogPawQuKxPg-XLFA
+2026-02-10 13:11:05,606 - INFO - 🔑 Using API key 9
+2026-02-10 13:11:20,999 - INFO - 💾 Saved 162 records
+2026-02-10 13:11:21,000 - INFO - ✅ UC8KRpZbogPawQuKxPg-XLFA (162 videos)
+2026-02-10 13:11:22,504 - INFO - [10/73] UCVWC8aGoerGVdwoEWj7JpjQ
+2026-02-10 13:11:25,276 - INFO - 🔑 Using API key 1
+2026-02-10 13:11:33,959 - INFO - 💾 Saved 5 records
+2026-02-10 13:11:33,960 - INFO - ✅ UCVWC8aGoerGVdwoEWj7JpjQ (5 videos)
+2026-02-10 13:11:33,962 - INFO - 📝 Batch checkpoint: 10 channels
+2026-02-10 13:11:35,465 - INFO - [11/73] UCttlnDAeIB4kx9jOOd8t5mg
+2026-02-10 13:11:38,044 - INFO - 🔑 Using API key 2
+2026-02-10 13:12:10,433 - INFO - 💾 Saved 650 records
+2026-02-10 13:12:10,434 - INFO - ✅ UCttlnDAeIB4kx9jOOd8t5mg (650 videos)
+2026-02-10 13:12:11,939 - INFO - [12/73] UCNUZYChVP9HziC9tVue2TzA
+2026-02-10 13:12:14,507 - INFO - 🔑 Using API key 3
+2026-02-10 13:12:23,382 - INFO - 💾 Saved 14 records
+2026-02-10 13:12:23,384 - INFO - ✅ UCNUZYChVP9HziC9tVue2TzA (14 videos)
+2026-02-10 13:12:24,887 - INFO - [13/73] UClsL5ycuvfpTREasnCZ9G7A
+2026-02-10 13:12:27,091 - WARNING - ⚠️ Key 4 error: [SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1006)
+2026-02-10 13:12:30,210 - INFO - 🔑 Using API key 5
+2026-02-10 13:12:40,531 - INFO - 💾 Saved 30 records
+2026-02-10 13:12:40,532 - INFO - ✅ UClsL5ycuvfpTREasnCZ9G7A (30 videos)
+2026-02-10 13:12:42,035 - INFO - [14/73] UCV2qhmyg2X3UdzwhaWJywog
+2026-02-10 13:12:44,811 - INFO - 🔑 Using API key 6
+2026-02-10 13:13:01,085 - INFO - 💾 Saved 219 records
+2026-02-10 13:13:01,086 - INFO - ✅ UCV2qhmyg2X3UdzwhaWJywog (219 videos)
+2026-02-10 13:13:02,589 - INFO - [15/73] UCIOX3v2AvAeMm_SjRlPGuWg
+2026-02-10 13:13:04,956 - INFO - 🔑 Using API key 7
+2026-02-10 13:13:14,202 - INFO - 💾 Saved 21 records
+2026-02-10 13:13:14,206 - INFO - ✅ UCIOX3v2AvAeMm_SjRlPGuWg (21 videos)
+2026-02-10 13:13:15,710 - INFO - [16/73] UCHGCfYSqYuQB7lGAyoeMdKQ
+2026-02-10 13:13:18,136 - INFO - 🔑 Using API key 8
+2026-02-10 13:13:46,476 - INFO - 💾 Saved 551 records
+2026-02-10 13:13:47,271 - INFO - ✅ UCHGCfYSqYuQB7lGAyoeMdKQ (551 videos)
+2026-02-10 13:13:50,020 - INFO - [17/73] UCU9_j7Vf2oHVuLSGXXFBTbQ
+2026-02-10 13:14:02,033 - INFO - 🔑 Using API key 9
+2026-02-10 13:14:16,641 - INFO - 💾 Saved 130 records
+2026-02-10 13:14:16,641 - INFO - ✅ UCU9_j7Vf2oHVuLSGXXFBTbQ (130 videos)
+2026-02-10 13:14:18,148 - INFO - [18/73] UCeshOQloZqIw7rqtUebNbWQ
+2026-02-10 13:14:20,859 - INFO - 🔑 Using API key 1
+2026-02-10 13:14:42,748 - INFO - 💾 Saved 366 records
+2026-02-10 13:14:42,751 - INFO - ✅ UCeshOQloZqIw7rqtUebNbWQ (366 videos)
+2026-02-10 13:14:44,255 - INFO - [19/73] UCRo-XNzPoexlfgn7ng2WGCw
+2026-02-10 13:14:46,847 - INFO - 🔑 Using API key 2
+2026-02-10 13:14:55,085 - INFO - 💾 Saved 1 records
+2026-02-10 13:14:55,085 - INFO - ✅ UCRo-XNzPoexlfgn7ng2WGCw (1 videos)
+2026-02-10 13:14:56,590 - INFO - [20/73] UCr6i7ilDr2DKWnIXRTXQGJQ
+2026-02-10 13:14:59,098 - INFO - 🔑 Using API key 3
+2026-02-10 13:15:14,001 - INFO - 💾 Saved 114 records
+2026-02-10 13:15:14,001 - INFO - ✅ UCr6i7ilDr2DKWnIXRTXQGJQ (114 videos)
+2026-02-10 13:15:14,001 - INFO - 📝 Batch checkpoint: 10 channels
+2026-02-10 13:15:15,511 - INFO - [21/73] UC4aMs4MHU4emDv7JpHgk_PA
+2026-02-10 13:15:18,447 - INFO - 🔑 Using API key 4
+2026-02-10 13:15:26,371 - INFO - 💾 Saved 3 records
+2026-02-10 13:15:26,371 - INFO - ✅ UC4aMs4MHU4emDv7JpHgk_PA (3 videos)
+2026-02-10 13:15:27,877 - INFO - [22/73] UCNCiv-wgbnh21GnRPHFcRMw
+2026-02-10 13:15:31,070 - INFO - 🔑 Using API key 5
+2026-02-10 13:15:40,525 - INFO - 💾 Saved 6 records
+2026-02-10 13:15:40,526 - INFO - ✅ UCNCiv-wgbnh21GnRPHFcRMw (6 videos)
+2026-02-10 13:15:42,029 - INFO - [23/73] UCFRZBmvSVSkG89nQ8yjxcEw
+2026-02-10 13:15:45,787 - INFO - 🔑 Using API key 6
+2026-02-10 13:15:56,020 - INFO - 💾 Saved 6 records
+2026-02-10 13:15:56,023 - INFO - ✅ UCFRZBmvSVSkG89nQ8yjxcEw (6 videos)
+2026-02-10 13:15:57,526 - INFO - [24/73] UCbQjfmMvbiBLsuamDfwkPKw
+2026-02-10 13:16:00,063 - INFO - 🔑 Using API key 7
+2026-02-10 13:16:08,910 - INFO - 💾 Saved 1 records
+2026-02-10 13:16:08,969 - INFO - ✅ UCbQjfmMvbiBLsuamDfwkPKw (1 videos)
+2026-02-10 13:16:10,571 - INFO - [25/73] UC1KsfDVzNr1w5hsStAv9IcA
+2026-02-10 13:16:14,317 - INFO - 🔑 Using API key 8
+2026-02-10 13:16:24,352 - INFO - 💾 Saved 1 records
+2026-02-10 13:16:24,353 - INFO - ✅ UC1KsfDVzNr1w5hsStAv9IcA (1 videos)
+2026-02-10 13:16:25,856 - INFO - [26/73] UC23_aXTZS8qBM753ahMg73Q
+2026-02-10 13:16:29,068 - INFO - 🔑 Using API key 9
+2026-02-10 13:16:38,011 - INFO - 💾 Saved 1 records
+2026-02-10 13:16:38,011 - INFO - ✅ UC23_aXTZS8qBM753ahMg73Q (1 videos)
+2026-02-10 13:16:39,521 - INFO - [27/73] UC5elnPDO8ysDeucXwowoKZw
+2026-02-10 13:16:42,430 - INFO - 🔑 Using API key 1
+2026-02-10 13:16:53,742 - INFO - 💾 Saved 19 records
+2026-02-10 13:16:53,742 - INFO - ✅ UC5elnPDO8ysDeucXwowoKZw (19 videos)
+2026-02-10 13:16:55,247 - INFO - [28/73] UCXupBqd6xrEgJ5yTbRWkoJQ
+2026-02-10 13:16:58,862 - INFO - 🔑 Using API key 2
+2026-02-10 13:17:04,799 - ERROR - Error fetching videos: <HttpError 404 when requesting https://youtube.googleapis.com/youtube/v3/playlistItems?part=snippet%2CcontentDetails&playlistId=UUXupBqd6xrEgJ5yTbRWkoJQ&maxResults=50&key=AIzaSyCPY5EHlO8qpbOkWufklO_udfHYN5jrKd8&alt=json returned "The playlist identified with the request's <code>playlistId</code> parameter cannot be found.". Details: "[{'message': "The playlist identified with the request's <code>playlistId</code> parameter cannot be found.", 'domain': 'youtube.playlistItem', 'reason': 'playlistNotFound', 'location': 'playlistId', 'locationType': 'parameter'}]">
+2026-02-10 13:17:04,804 - INFO - No videos for UCXupBqd6xrEgJ5yTbRWkoJQ
+2026-02-10 13:17:06,306 - INFO - [29/73] UCkOLgMFvcSyc0W3FkjVJpvQ
+2026-02-10 13:17:08,603 - WARNING - ⚠️ Key 3 error: [SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1006)
+2026-02-10 13:17:11,860 - INFO - 🔑 Using API key 4
+2026-02-10 13:17:21,193 - INFO - 💾 Saved 4 records
+2026-02-10 13:17:21,195 - INFO - ✅ UCkOLgMFvcSyc0W3FkjVJpvQ (4 videos)
+2026-02-10 13:17:22,700 - INFO - [30/73] UC_yc-b4c5NaArHv7qmYjVIg
+2026-02-10 13:17:25,281 - WARNING - ⚠️ Key 5 error: [SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1006)
+2026-02-10 13:17:28,217 - INFO - 🔑 Using API key 6
+2026-02-10 13:17:36,790 - INFO - 💾 Saved 2 records
+2026-02-10 13:17:36,805 - INFO - ✅ UC_yc-b4c5NaArHv7qmYjVIg (2 videos)
+2026-02-10 13:17:36,812 - INFO - 📝 Batch checkpoint: 10 channels
+2026-02-10 13:17:38,394 - INFO - [31/73] UCtubBOTtanXz11JoPDlfudA
+2026-02-10 13:17:41,795 - INFO - 🔑 Using API key 7
+2026-02-10 13:17:57,941 - INFO - 💾 Saved 197 records
+2026-02-10 13:17:57,941 - INFO - ✅ UCtubBOTtanXz11JoPDlfudA (197 videos)
+2026-02-10 13:17:59,450 - INFO - [32/73] UCeSMMoRaDU0DtRmoZ2F0vJg
+2026-02-10 13:18:02,233 - INFO - 🔑 Using API key 8
+2026-02-10 13:18:07,497 - ERROR - Error fetching videos: <HttpError 404 when requesting https://youtube.googleapis.com/youtube/v3/playlistItems?part=snippet%2CcontentDetails&playlistId=UUeSMMoRaDU0DtRmoZ2F0vJg&maxResults=50&key=AIzaSyBEDGArnsn19HcOZ0HoUHDHgy45iTOFyck&alt=json returned "The playlist identified with the request's <code>playlistId</code> parameter cannot be found.". Details: "[{'message': "The playlist identified with the request's <code>playlistId</code> parameter cannot be found.", 'domain': 'youtube.playlistItem', 'reason': 'playlistNotFound', 'location': 'playlistId', 'locationType': 'parameter'}]">
+2026-02-10 13:18:07,499 - INFO - No videos for UCeSMMoRaDU0DtRmoZ2F0vJg
+2026-02-10 13:18:09,004 - INFO - [33/73] UC7O4ZayeVR6ywzlx-jw3ZCA
+2026-02-10 13:18:12,071 - INFO - 🔑 Using API key 9
+2026-02-10 13:18:21,446 - INFO - 💾 Saved 5 records
+2026-02-10 13:18:21,451 - INFO - ✅ UC7O4ZayeVR6ywzlx-jw3ZCA (5 videos)
+2026-02-10 13:18:22,954 - INFO - [34/73] UChBeJXDiC2Z7LPgnYV3GvJw
+2026-02-10 13:18:26,476 - INFO - 🔑 Using API key 1
+2026-02-10 13:18:34,617 - INFO - 💾 Saved 15 records
+2026-02-10 13:18:34,633 - INFO - ✅ UChBeJXDiC2Z7LPgnYV3GvJw (15 videos)
+2026-02-10 13:18:36,141 - INFO - [35/73] UCcPa_n4RZtTziPp2qYbNBMA
+2026-02-10 13:18:40,441 - INFO - 🔑 Using API key 2
+2026-02-10 13:18:49,439 - INFO - 💾 Saved 39 records
+2026-02-10 13:18:49,440 - INFO - ✅ UCcPa_n4RZtTziPp2qYbNBMA (39 videos)
+2026-02-10 13:18:50,943 - INFO - [36/73] UCcAeHbUrSX9fOcUh8G4apmg
+2026-02-10 13:18:53,903 - INFO - 🔑 Using API key 3
+2026-02-10 13:19:03,990 - INFO - 💾 Saved 14 records
+2026-02-10 13:19:03,991 - INFO - ✅ UCcAeHbUrSX9fOcUh8G4apmg (14 videos)
+2026-02-10 13:19:05,495 - INFO - [37/73] UCReja0R8PLg3cqfR1FqJ3Ag
+2026-02-10 13:19:08,603 - INFO - 🔑 Using API key 4
+2026-02-10 13:19:18,583 - INFO - 💾 Saved 1 records
+2026-02-10 13:19:18,615 - INFO - ✅ UCReja0R8PLg3cqfR1FqJ3Ag (1 videos)
+2026-02-10 13:19:20,136 - INFO - [38/73] UCqMOX-dT2tIiXOdgjCtglIQ
+2026-02-10 13:19:23,835 - INFO - 🔑 Using API key 5
+2026-02-10 13:19:33,607 - INFO - 💾 Saved 2 records
+2026-02-10 13:19:33,608 - INFO - ✅ UCqMOX-dT2tIiXOdgjCtglIQ (2 videos)
+2026-02-10 13:19:35,110 - INFO - [39/73] UCf9Y8ZIIe9nqLoN6VxdCixw
+2026-02-10 13:19:57,424 - WARNING - ⚠️ Key 6 error: [SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1006)
+2026-02-10 13:20:00,138 - INFO - 🔑 Using API key 7
+2026-02-10 13:20:09,833 - INFO - 💾 Saved 2 records
+2026-02-10 13:20:09,838 - INFO - ✅ UCf9Y8ZIIe9nqLoN6VxdCixw (2 videos)
+2026-02-10 13:20:11,341 - INFO - [40/73] UCrzlds14W-PSZKLautOvNSg
+2026-02-10 13:20:13,897 - INFO - 🔑 Using API key 8
+2026-02-10 13:20:21,598 - INFO - 💾 Saved 6 records
+2026-02-10 13:20:21,598 - INFO - ✅ UCrzlds14W-PSZKLautOvNSg (6 videos)
+2026-02-10 13:20:21,598 - INFO - 📝 Batch checkpoint: 10 channels
+2026-02-10 13:20:23,105 - INFO - [41/73] UCtwdpUMgLUOgNpPSFvD6OGw
+2026-02-10 13:20:25,598 - INFO - 🔑 Using API key 9
+2026-02-10 13:20:31,130 - ERROR - Error fetching videos: <HttpError 404 when requesting https://youtube.googleapis.com/youtube/v3/playlistItems?part=snippet%2CcontentDetails&playlistId=UUtwdpUMgLUOgNpPSFvD6OGw&maxResults=50&key=AIzaSyAzaNI7Q7M_XoI-fnJSOg0EohIwKkLG5h0&alt=json returned "The playlist identified with the request's <code>playlistId</code> parameter cannot be found.". Details: "[{'message': "The playlist identified with the request's <code>playlistId</code> parameter cannot be found.", 'domain': 'youtube.playlistItem', 'reason': 'playlistNotFound', 'location': 'playlistId', 'locationType': 'parameter'}]">
+2026-02-10 13:20:31,131 - INFO - No videos for UCtwdpUMgLUOgNpPSFvD6OGw
+2026-02-10 13:20:32,634 - INFO - [42/73] UCtx374xF34YYTd5izz07S8Q
+2026-02-10 13:20:35,083 - INFO - 🔑 Using API key 1
+2026-02-10 13:20:47,859 - INFO - 💾 Saved 131 records
+2026-02-10 13:20:47,861 - INFO - ✅ UCtx374xF34YYTd5izz07S8Q (131 videos)
+2026-02-10 13:20:49,364 - INFO - [43/73] UC4LyHxQ_ntKSUUSIS467-iA
+2026-02-10 13:20:51,938 - INFO - 🔑 Using API key 2
+2026-02-10 13:21:01,239 - INFO - 💾 Saved 4 records
+2026-02-10 13:21:01,240 - INFO - ✅ UC4LyHxQ_ntKSUUSIS467-iA (4 videos)
+2026-02-10 13:21:02,743 - INFO - [44/73] UC0pxcW6u4kloSRzdMZYgywA
+2026-02-10 13:21:05,225 - INFO - 🔑 Using API key 3
+2026-02-10 13:21:12,968 - INFO - 💾 Saved 6 records
+2026-02-10 13:21:12,968 - INFO - ✅ UC0pxcW6u4kloSRzdMZYgywA (6 videos)
+2026-02-10 13:21:14,476 - INFO - [45/73] UCtM3vIWxvH3IxeXZ1bzFy-A
+2026-02-10 13:21:16,825 - INFO - 🔑 Using API key 4
+2026-02-10 13:21:26,857 - INFO - 💾 Saved 1 records
+2026-02-10 13:21:26,858 - INFO - ✅ UCtM3vIWxvH3IxeXZ1bzFy-A (1 videos)
+2026-02-10 13:21:28,362 - INFO - [46/73] UCl3h1VVQ_2qEmuReWuli4Vw
+2026-02-10 13:21:30,497 - INFO - 🔑 Using API key 5
+2026-02-10 13:21:39,298 - INFO - 💾 Saved 1 records
+2026-02-10 13:21:39,298 - INFO - ✅ UCl3h1VVQ_2qEmuReWuli4Vw (1 videos)
+2026-02-10 13:21:40,803 - INFO - [47/73] UClft_GZ3BXOdUOEcslvNMQw
+2026-02-10 13:21:43,274 - INFO - 🔑 Using API key 6
+2026-02-10 13:21:53,159 - INFO - 💾 Saved 3 records
+2026-02-10 13:21:53,187 - INFO - ✅ UClft_GZ3BXOdUOEcslvNMQw (3 videos)
+2026-02-10 13:21:54,703 - INFO - [48/73] UCNdSVLQohdYJtvZrhJapxjA
+2026-02-10 13:22:00,302 - INFO - 🔑 Using API key 7
+2026-02-10 13:22:10,106 - INFO - 💾 Saved 13 records
+2026-02-10 13:22:10,108 - INFO - ✅ UCNdSVLQohdYJtvZrhJapxjA (13 videos)
+2026-02-10 13:22:11,613 - INFO - [49/73] UCOjVwHNgZ1d_-kuICcJW1ag
+2026-02-10 13:22:15,858 - INFO - 🔑 Using API key 8
+2026-02-10 13:22:25,244 - INFO - 💾 Saved 1 records
+2026-02-10 13:22:25,257 - INFO - ✅ UCOjVwHNgZ1d_-kuICcJW1ag (1 videos)
+2026-02-10 13:22:26,763 - INFO - [50/73] UCqVMrnRvC5SQpO37Af6LH0g
+2026-02-10 13:22:31,602 - INFO - 🔑 Using API key 9
+2026-02-10 13:22:41,226 - INFO - 💾 Saved 8 records
+2026-02-10 13:22:41,230 - INFO - ✅ UCqVMrnRvC5SQpO37Af6LH0g (8 videos)
+2026-02-10 13:22:41,237 - INFO - 📝 Batch checkpoint: 10 channels
+2026-02-10 13:22:42,751 - INFO - [51/73] UCHeEeqxcPicZixtxHKSUaew
+2026-02-10 13:22:45,561 - INFO - 🔑 Using API key 1
+2026-02-10 13:22:55,993 - INFO - 💾 Saved 3 records
+2026-02-10 13:22:55,995 - INFO - ✅ UCHeEeqxcPicZixtxHKSUaew (3 videos)
+2026-02-10 13:22:57,507 - INFO - [52/73] UChtcDy0SnuU1PN1GKkj06eg
+2026-02-10 13:23:01,359 - INFO - 🔑 Using API key 2
+2026-02-10 13:23:10,137 - INFO - 💾 Saved 1 records
+2026-02-10 13:23:10,138 - INFO - ✅ UChtcDy0SnuU1PN1GKkj06eg (1 videos)
+2026-02-10 13:23:11,642 - INFO - [53/73] UC9gNi2xu9D4KqepNX4HFGtQ
+2026-02-10 13:23:14,844 - INFO - 🔑 Using API key 3
+2026-02-10 13:23:37,379 - INFO - 💾 Saved 366 records
+2026-02-10 13:23:37,380 - INFO - ✅ UC9gNi2xu9D4KqepNX4HFGtQ (366 videos)
+2026-02-10 13:23:38,892 - INFO - [54/73] UCk2S3bNOQc4IlFZGuPBO5ig
+2026-02-10 13:23:42,998 - INFO - 🔑 Using API key 4
+2026-02-10 13:23:51,393 - INFO - 💾 Saved 2 records
+2026-02-10 13:23:51,438 - INFO - ✅ UCk2S3bNOQc4IlFZGuPBO5ig (2 videos)
+2026-02-10 13:23:53,131 - INFO - [55/73] UCKLTcIIjLFlOJjmDEbkXeKA
+2026-02-10 13:23:58,846 - INFO - 🔑 Using API key 5
+2026-02-10 13:24:13,457 - INFO - 💾 Saved 108 records
+2026-02-10 13:24:13,551 - INFO - ✅ UCKLTcIIjLFlOJjmDEbkXeKA (108 videos)
+2026-02-10 13:24:15,530 - INFO - [56/73] UCT0upq2-hzb7yDZqpJr6H9A
+2026-02-10 13:24:20,227 - INFO - 🔑 Using API key 6
+2026-02-10 13:24:28,881 - INFO - 💾 Saved 1 records
+2026-02-10 13:24:28,885 - INFO - ✅ UCT0upq2-hzb7yDZqpJr6H9A (1 videos)
+2026-02-10 13:24:30,389 - INFO - [57/73] UC1yYoFtRCrWSAMvPXYB0dsA
+2026-02-10 13:24:33,843 - INFO - 🔑 Using API key 7
+2026-02-10 13:24:44,330 - INFO - 💾 Saved 52 records
+2026-02-10 13:24:44,333 - INFO - ✅ UC1yYoFtRCrWSAMvPXYB0dsA (52 videos)
+2026-02-10 13:24:45,836 - INFO - [58/73] UC3DOGYEwiLPmHe4Th_8_ypg
+2026-02-10 13:24:48,241 - INFO - 🔑 Using API key 8
+2026-02-10 13:24:57,503 - INFO - 💾 Saved 3 records
+2026-02-10 13:24:57,507 - INFO - ✅ UC3DOGYEwiLPmHe4Th_8_ypg (3 videos)
+2026-02-10 13:24:59,012 - INFO - [59/73] UC-vff6MjQS4-T5amsK03OIQ
+2026-02-10 13:25:02,700 - INFO - 🔑 Using API key 9
+2026-02-10 13:25:12,055 - INFO - 💾 Saved 5 records
+2026-02-10 13:25:12,056 - INFO - ✅ UC-vff6MjQS4-T5amsK03OIQ (5 videos)
+2026-02-10 13:25:13,560 - INFO - [60/73] UCMYeijcwbL-xyPiK9Rx4oOg
+2026-02-10 13:25:17,113 - INFO - 🔑 Using API key 1
+2026-02-10 13:25:25,850 - INFO - 💾 Saved 1 records
+2026-02-10 13:25:25,852 - INFO - ✅ UCMYeijcwbL-xyPiK9Rx4oOg (1 videos)
+2026-02-10 13:25:25,854 - INFO - 📝 Batch checkpoint: 10 channels
+2026-02-10 13:25:27,356 - INFO - [61/73] UCBlkUpQ3gLE9a0InI4T4OqA
+2026-02-10 13:25:30,568 - INFO - 🔑 Using API key 2
+2026-02-10 13:25:38,511 - INFO - 💾 Saved 22 records
+2026-02-10 13:25:38,511 - INFO - ✅ UCBlkUpQ3gLE9a0InI4T4OqA (22 videos)
+2026-02-10 13:25:40,018 - INFO - [62/73] UCCoqQ94rUWsyEEUOQuzlNtw
+2026-02-10 13:25:43,954 - INFO - 🔑 Using API key 3
+2026-02-10 13:25:53,360 - INFO - 💾 Saved 5 records
+2026-02-10 13:25:53,362 - INFO - ✅ UCCoqQ94rUWsyEEUOQuzlNtw (5 videos)
+2026-02-10 13:25:54,865 - INFO - [63/73] UCCnz2ZA1crJchZy4BJ58vhQ
+2026-02-10 13:25:58,753 - INFO - 🔑 Using API key 4
+2026-02-10 13:26:08,640 - INFO - 💾 Saved 6 records
+2026-02-10 13:26:08,700 - INFO - ✅ UCCnz2ZA1crJchZy4BJ58vhQ (6 videos)
+2026-02-10 13:26:10,271 - INFO - [64/73] UCKA16chQ3EKGU7muz1DT0lw
+2026-02-10 13:26:16,202 - INFO - 🔑 Using API key 5
+2026-02-10 13:26:26,570 - INFO - 💾 Saved 17 records
+2026-02-10 13:26:26,571 - INFO - ✅ UCKA16chQ3EKGU7muz1DT0lw (17 videos)
+2026-02-10 13:26:28,134 - INFO - [65/73] UCyiSCid5Iap27_0MUj-bRbA
+2026-02-10 13:26:32,644 - INFO - 🔑 Using API key 6
+2026-02-10 13:26:41,676 - INFO - 💾 Saved 3 records
+2026-02-10 13:26:41,679 - INFO - ✅ UCyiSCid5Iap27_0MUj-bRbA (3 videos)
+2026-02-10 13:26:43,187 - INFO - [66/73] UC19zh8gSEEwvlez-ujZ1S4Q
+2026-02-10 13:26:46,104 - INFO - 🔑 Using API key 7
+2026-02-10 13:26:54,837 - INFO - 💾 Saved 1 records
+2026-02-10 13:26:54,839 - INFO - ✅ UC19zh8gSEEwvlez-ujZ1S4Q (1 videos)
+2026-02-10 13:26:56,343 - INFO - [67/73] UCsHRqIZGgysgDE-iBJQFrOw
+2026-02-10 13:26:59,348 - INFO - 🔑 Using API key 8
+2026-02-10 13:27:04,366 - ERROR - Error fetching videos: <HttpError 404 when requesting https://youtube.googleapis.com/youtube/v3/playlistItems?part=snippet%2CcontentDetails&playlistId=UUsHRqIZGgysgDE-iBJQFrOw&maxResults=50&key=AIzaSyBEDGArnsn19HcOZ0HoUHDHgy45iTOFyck&alt=json returned "The playlist identified with the request's <code>playlistId</code> parameter cannot be found.". Details: "[{'message': "The playlist identified with the request's <code>playlistId</code> parameter cannot be found.", 'domain': 'youtube.playlistItem', 'reason': 'playlistNotFound', 'location': 'playlistId', 'locationType': 'parameter'}]">
+2026-02-10 13:27:04,368 - INFO - No videos for UCsHRqIZGgysgDE-iBJQFrOw
+2026-02-10 13:27:05,871 - INFO - [68/73] UCsnZRnBcmECSRGZ4l2OWNnQ
+2026-02-10 13:27:08,939 - INFO - 🔑 Using API key 9
+2026-02-10 13:27:19,967 - INFO - 💾 Saved 25 records
+2026-02-10 13:27:19,969 - INFO - ✅ UCsnZRnBcmECSRGZ4l2OWNnQ (25 videos)
+2026-02-10 13:27:21,473 - INFO - [69/73] UCauxlu3HJM7D5oa4T1oDDBA
+2026-02-10 13:27:24,869 - INFO - 🔑 Using API key 1
+2026-02-10 13:27:34,188 - INFO - 💾 Saved 6 records
+2026-02-10 13:27:34,191 - INFO - ✅ UCauxlu3HJM7D5oa4T1oDDBA (6 videos)
+2026-02-10 13:27:35,694 - INFO - [70/73] UCjsWiXsaM0urokqkHecKDvg
+2026-02-10 13:27:39,534 - WARNING - ⚠️ Key 2 error: [SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1006)
+2026-02-10 13:27:42,773 - INFO - 🔑 Using API key 3
+2026-02-10 13:27:51,965 - INFO - 💾 Saved 31 records
+2026-02-10 13:27:51,967 - INFO - ✅ UCjsWiXsaM0urokqkHecKDvg (31 videos)
+2026-02-10 13:27:51,969 - INFO - 📝 Batch checkpoint: 10 channels
+2026-02-10 13:27:53,475 - INFO - [71/73] UCj77iMj5pChrt6Wzz-yEuOQ
+2026-02-10 13:27:56,419 - INFO - 🔑 Using API key 4
+2026-02-10 13:28:05,702 - INFO - 💾 Saved 17 records
+2026-02-10 13:28:05,702 - INFO - ✅ UCj77iMj5pChrt6Wzz-yEuOQ (17 videos)
+2026-02-10 13:28:07,211 - INFO - [72/73] UCdEKnILr3yHxiAWtrDHGbSg
+2026-02-10 13:28:10,740 - INFO - 🔑 Using API key 5
+2026-02-10 13:28:15,440 - ERROR - Error fetching videos: <HttpError 404 when requesting https://youtube.googleapis.com/youtube/v3/playlistItems?part=snippet%2CcontentDetails&playlistId=UUdEKnILr3yHxiAWtrDHGbSg&maxResults=50&key=AIzaSyB6btqibyAD1WwxrjZs-d5nONuM2gESFSc&alt=json returned "The playlist identified with the request's <code>playlistId</code> parameter cannot be found.". Details: "[{'message': "The playlist identified with the request's <code>playlistId</code> parameter cannot be found.", 'domain': 'youtube.playlistItem', 'reason': 'playlistNotFound', 'location': 'playlistId', 'locationType': 'parameter'}]">
+2026-02-10 13:28:15,442 - INFO - No videos for UCdEKnILr3yHxiAWtrDHGbSg
+2026-02-10 13:28:16,945 - INFO - [73/73] UCuO207BukopghYSWmQ-HduQ
+2026-02-10 13:28:20,442 - INFO - 🔑 Using API key 6
+2026-02-10 13:28:28,600 - INFO - 💾 Saved 16 records
+2026-02-10 13:28:28,602 - INFO - ✅ UCuO207BukopghYSWmQ-HduQ (16 videos)
+2026-02-10 13:28:30,107 - INFO - 🎉 Scraping completed!
+2026-02-10 13:28:30,116 - INFO - 📊 Check data: SELECT COUNT(*) FROM recycle_bin.youtube_scraped_data;

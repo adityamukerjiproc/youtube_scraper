@@ -1,0 +1,48 @@
+2026-02-18 13:53:10,129 - INFO - 🚀 YouTube scraper started
+2026-02-18 13:53:10,137 - INFO - 📁 Log file: logs\scraper_20260218_135310.log
+2026-02-18 13:53:10,139 - INFO - 🔑 Loaded 9 API keys
+2026-02-18 13:53:13,746 - INFO - ✅ DB check complete, table ready
+2026-02-18 13:53:13,748 - INFO - ✅ Initialized. Resume from row 0
+2026-02-18 13:53:13,780 - INFO - 🚀 Starting from row 0/10
+2026-02-18 13:53:13,781 - INFO - [1/10] UChjG9suQkD7uy92Raeu1Pbg
+2026-02-18 13:53:16,871 - INFO - 🔑 Using API key 1
+2026-02-18 13:53:18,787 - INFO - Channel UChjG9suQkD7uy92Raeu1Pbg already processed
+2026-02-18 13:53:20,291 - INFO - [2/10] UCLCAa4YFWyACq_ROrZqyU2g
+2026-02-18 13:53:22,798 - INFO - 🔑 Using API key 2
+2026-02-18 13:53:35,027 - INFO - 💾 Saved 64 records
+2026-02-18 13:53:35,028 - INFO - ✅ UCLCAa4YFWyACq_ROrZqyU2g (64 videos)
+2026-02-18 13:53:36,531 - INFO - [3/10] UCB2iKfrM7aGKzOKoTP7TA2A
+2026-02-18 13:53:39,287 - INFO - 🔑 Using API key 3
+2026-02-18 13:53:48,855 - INFO - 💾 Saved 34 records
+2026-02-18 13:53:48,870 - INFO - ✅ UCB2iKfrM7aGKzOKoTP7TA2A (34 videos)
+2026-02-18 13:53:50,377 - INFO - [4/10] UC-Vhxqzq0w5ncHcuAgPfQAw
+2026-02-18 13:53:53,257 - INFO - 🔑 Using API key 4
+2026-02-18 13:54:08,071 - INFO - 💾 Saved 110 records
+2026-02-18 13:54:08,073 - INFO - ✅ UC-Vhxqzq0w5ncHcuAgPfQAw (110 videos)
+2026-02-18 13:54:09,578 - INFO - [5/10] UCe0fHWjFLX6DecThdT_CZyw
+2026-02-18 13:54:12,141 - INFO - 🔑 Using API key 5
+2026-02-18 13:54:36,792 - ERROR - Error getting channel info UCe0fHWjFLX6DecThdT_CZyw: [SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1006)
+2026-02-18 13:54:36,792 - WARNING - No uploads playlist for UCe0fHWjFLX6DecThdT_CZyw
+2026-02-18 13:54:38,295 - INFO - [6/10] UCkBBe6sNA-z7fQ5LCmnD8EQ
+2026-02-18 13:54:40,685 - INFO - 🔑 Using API key 6
+2026-02-18 13:54:57,775 - INFO - 💾 Saved 208 records
+2026-02-18 13:54:57,803 - INFO - ✅ UCkBBe6sNA-z7fQ5LCmnD8EQ (208 videos)
+2026-02-18 13:54:59,311 - INFO - [7/10] UCt1QFsofz_yDSdkqNsPrANQ
+2026-02-18 13:55:02,517 - INFO - 🔑 Using API key 7
+2026-02-18 13:55:19,256 - INFO - 💾 Saved 191 records
+2026-02-18 13:55:19,374 - INFO - ✅ UCt1QFsofz_yDSdkqNsPrANQ (191 videos)
+2026-02-18 13:55:21,556 - INFO - [8/10] UCWTgr_Pl9auAOZK9FNxEC0A
+2026-02-18 13:55:27,397 - INFO - 🔑 Using API key 8
+2026-02-18 13:55:45,364 - INFO - 💾 Saved 179 records
+2026-02-18 13:55:45,365 - INFO - ✅ UCWTgr_Pl9auAOZK9FNxEC0A (179 videos)
+2026-02-18 13:55:46,877 - INFO - [9/10] UCqJ-wzI6DNaM6V1I42Df6gw
+2026-02-18 13:55:49,638 - INFO - 🔑 Using API key 9
+2026-02-18 13:55:58,997 - INFO - 💾 Saved 39 records
+2026-02-18 13:55:59,000 - INFO - ✅ UCqJ-wzI6DNaM6V1I42Df6gw (39 videos)
+2026-02-18 13:56:00,503 - INFO - [10/10] UCL5LsLUeVA2j_Vsl5625shQ
+2026-02-18 13:56:03,272 - INFO - 🔑 Using API key 1
+2026-02-18 13:56:28,578 - INFO - 💾 Saved 409 records
+2026-02-18 13:56:28,588 - INFO - ✅ UCL5LsLUeVA2j_Vsl5625shQ (409 videos)
+2026-02-18 13:56:28,709 - INFO - 📝 Batch checkpoint: 10 channels
+2026-02-18 13:56:30,402 - INFO - 🎉 Scraping completed!
+2026-02-18 13:56:30,403 - INFO - 📊 Check data: SELECT COUNT(*) FROM recycle_bin.youtube_scraped_data;
